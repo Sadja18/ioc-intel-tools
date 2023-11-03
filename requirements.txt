@@ -22,8 +22,10 @@ Pygments==2.16.1
 pymongo==4.6.0
 python-dotenv==1.0.0
 python-whois==0.8.0
+python3-nmap==1.6.0
 requests==2.31.0
 rich==13.6.0
+simplejson==3.19.2
 soupsieve==2.5
 urllib3==2.0.7
 Werkzeug==3.0.1
