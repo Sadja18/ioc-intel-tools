@@ -589,7 +589,7 @@ def port_discovery():
         if isinstance(content_type, str) and content_type == "application/json":
             data = request.json
 
-            info = is_ip_report_exists("active_services", data["ip"])
+            info = is_ip_report_exists("open_ports", data["ip"])
             print("usable report ", "info")
 
             if info is None or (
@@ -620,7 +620,7 @@ def port_discovery():
                             }
                         )
                     )
-                    response.status_code = 500
+                    response.status_code = 200
                     return response
                 else:
                     response = make_response(
@@ -682,7 +682,7 @@ def port_discovery():
                                 }
                             )
                         )
-                        response.status_code = 500
+                        response.status_code = 200
                         return response
                     else:
                         response = make_response(
@@ -773,7 +773,7 @@ def active_services():
                             }
                         )
                     )
-                    response.status_code = 500
+                    response.status_code = 200
                     return response
                 else:
                     response = make_response(
@@ -835,7 +835,7 @@ def active_services():
                                 }
                             )
                         )
-                        response.status_code = 500
+                        response.status_code = 200
                         return response
                     else:
                         response = make_response(
