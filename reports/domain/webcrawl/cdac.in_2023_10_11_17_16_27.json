@@ -1,0 +1,3593 @@
+{
+    "http": {
+        "redirects To": "https://cdac.in/",
+        "has external scripts": true,
+        "script files": [
+            {
+                "route": "/js/jquery.min.js",
+                "cross origin": null,
+                "script_type": "text/javascript",
+                "type": "internal"
+            },
+            {
+                "route": "https://platform.twitter.com/widgets.js",
+                "cross origin": null,
+                "script_type": null,
+                "type": "external"
+            },
+            {
+                "route": "/js/carousel.js",
+                "cross origin": null,
+                "script_type": "text/javascript",
+                "type": "internal"
+            },
+            {
+                "route": "https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v14.0",
+                "cross origin": "anonymous",
+                "script_type": null,
+                "type": "external"
+            },
+            {
+                "route": "/js/bootstrap.min.js",
+                "cross origin": null,
+                "script_type": "text/javascript",
+                "type": "internal"
+            },
+            {
+                "route": "/js/bootstrap.bundle.min.js",
+                "cross origin": null,
+                "script_type": "text/javascript",
+                "type": "internal"
+            },
+            {
+                "route": "/js/swiper-bundle.min.js",
+                "cross origin": null,
+                "script_type": "text/javascript",
+                "type": "internal"
+            },
+            {
+                "route": "/js/jquery.colorbox.js",
+                "cross origin": null,
+                "script_type": "text/javascript",
+                "type": "internal"
+            },
+            {
+                "route": "/js/accessibility.min.js",
+                "cross origin": null,
+                "script_type": "text/javascript",
+                "type": "internal"
+            },
+            {
+                "route": "/js/aos.js",
+                "cross origin": null,
+                "script_type": "text/javascript",
+                "type": "internal"
+            },
+            {
+                "route": "/js/confirm.js",
+                "cross origin": null,
+                "script_type": "text/javascript",
+                "type": "internal"
+            },
+            {
+                "route": "https://gistlangserver.in/demos/cdacSearch.min.js",
+                "cross origin": null,
+                "script_type": null,
+                "type": "external"
+            }
+        ],
+        "has links": true,
+        "links": [
+            {
+                "link": "/index.aspx?id=pdf_Techzine",
+                "type": "internal",
+                "contents": [
+                    "<span><i class=\"fa-solid fa-play px-1\"></i> <strong>Techzine</strong> <small> - C-DAC R&amp;D Digest </small></span>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "#nav",
+                "type": "external",
+                "contents": [
+                    "Skip to navigation"
+                ],
+                "inner": null
+            },
+            {
+                "link": "#content",
+                "type": "external",
+                "contents": [
+                    "\r\n                              Skip to main content"
+                ],
+                "inner": null
+            },
+            {
+                "link": "javascript:__doPostBack('hi','')",
+                "type": "external",
+                "contents": [
+                    "\u0939\u093f\u0928\u094d\u0926\u0940"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx",
+                "type": "internal",
+                "contents": [
+                    "<img class=\"img-fluid\" src=\"/img/cdac-logo-sm.png\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx",
+                "type": "internal",
+                "contents": [
+                    "<img class=\"img-fluid\" src=\"/img/cdac-logo.png\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=msearch",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fas fa-search p-1\"></i>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-house\"></i>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=about",
+                "type": "internal",
+                "contents": [
+                    "About Us"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=products_services",
+                "type": "internal",
+                "contents": [
+                    "Products & Services"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=research",
+                "type": "internal",
+                "contents": [
+                    "R&D "
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=alliance",
+                "type": "internal",
+                "contents": [
+                    "Alliance"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=tenders",
+                "type": "internal",
+                "contents": [
+                    "Tenders"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=tenders_eoi",
+                "type": "internal",
+                "contents": [
+                    "/ \u00a0EOI"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=tenders_eoi",
+                "type": "internal",
+                "contents": [
+                    "EXPRESSION OF INTEREST"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=career",
+                "type": "internal",
+                "contents": [
+                    "Careers"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=contact",
+                "type": "internal",
+                "contents": [
+                    "Contact Us"
+                ],
+                "inner": null
+            },
+            {
+                "link": "#",
+                "type": "external",
+                "contents": [
+                    "\r\n                    Thematic Area                  "
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=hgc",
+                "type": "internal",
+                "contents": [
+                    "High Performance Computing"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=professional_electronics",
+                "type": "internal",
+                "contents": [
+                    "Strategic\r\n                        Electronics"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=mlingual_heritage",
+                "type": "internal",
+                "contents": [
+                    "Multilingual & Heritage\r\n                        Computing"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=soft_tech",
+                "type": "internal",
+                "contents": [
+                    "Software Technologies"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=cyber_security",
+                "type": "internal",
+                "contents": [
+                    "Cyber Security & Forensics"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=quantum_computing",
+                "type": "internal",
+                "contents": [
+                    "Quantum Computing"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=health_info",
+                "type": "internal",
+                "contents": [
+                    "Health Informatics"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=education_training",
+                "type": "internal",
+                "contents": [
+                    "Education & Training"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://www.isgns2023.com/ ",
+                "type": "external",
+                "contents": [
+                    "<img alt=\"ISG\" class=\"d-block w-100\" src=\"/index.aspx?id=img_showcase&amp;dynamicId=ISG.jpg\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://nsmindia.in/node/209 ",
+                "type": "external",
+                "contents": [
+                    "<img alt=\"ER-DCI\" class=\"d-block w-100\" src=\"/index.aspx?id=img_showcase&amp;dynamicId=computational-chemistry.jpg\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "http://www.erdciit.ac.in/",
+                "type": "external",
+                "contents": [
+                    "<img alt=\"ER-DCI\" class=\"d-block w-100\" src=\"/index.aspx?id=img_showcase&amp;dynamicId=ER-DCI.jpg\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=hpc_nsf_npsfidx",
+                "type": "internal",
+                "contents": [
+                    "<img alt=\"Airawat\" class=\"d-block w-100\" src=\"/index.aspx?id=img_showcase&amp;dynamicId=airawat.jpg\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=lu_EOI-NSM",
+                "type": "internal",
+                "contents": [
+                    "<img alt=\"EoI-NSM\" class=\"d-block w-100\" src=\"/index.aspx?id=img_hpc_EoI\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://agnipathvayu.cdac.in/AV/",
+                "type": "external",
+                "contents": [
+                    "<img alt=\"...\" class=\"d-block w-100\" src=\"/index.aspx?id=img_Agnipath \"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://c2s.gov.in/index.jsp",
+                "type": "external",
+                "contents": [
+                    " ",
+                    "<img alt=\"...\" class=\"d-block w-100\" src=\"/index.aspx?id=img_C2S\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://cdac.in/index.aspx?id=pdf_IoA_Collaboration_Innovation_V10",
+                "type": "internal",
+                "contents": [
+                    "<img alt=\"...\" class=\"d-block w-100\" src=\"/index.aspx?id=img_Collaborative\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=img_ICSTA_Banner",
+                "type": "internal",
+                "contents": [
+                    "<img alt=\"ICSTA\" class=\"d-block w-100\" src=\"/index.aspx?id=img_showcase&amp;dynamicId=ICSTA.jpg\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "http://www.acsd.ac.in/onlinefill.aspx",
+                "type": "external",
+                "contents": [
+                    "<img alt=\"...\" class=\"d-block w-100\" src=\"/index.aspx?id=img_M.Tech_Program \"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://ipu.admissions.nic.in/",
+                "type": "external",
+                "contents": [
+                    "<img alt=\"MCA Addmission Banner\" class=\"d-block w-100\" src=\"/index.aspx?id=img_MCA\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=hgc",
+                "type": "internal",
+                "contents": [
+                    "\n",
+                    "<div class=\"card shadow\">\n<div class=\"card-body\">\n<p class=\"card-text\"><i class=\"fa-solid fa-cloud fa-2x fbg-icon\"></i> <br/> <span class=\"fbg-text\">High Performance Computing</span></p>\n</div>\n</div>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=mlingual_heritage",
+                "type": "internal",
+                "contents": [
+                    "\n",
+                    "<div class=\"card shadow\">\n<div class=\"card-body\">\n<p class=\"card-text\"><i class=\"fa-solid fa-language fa-2x fbg-icon\"></i> <br/> <span class=\"fbg-text\">Multilingual &amp; Heritage Computing</span></p>\n</div>\n</div>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=professional_electronics",
+                "type": "internal",
+                "contents": [
+                    "\n",
+                    "<div class=\"card shadow\">\n<div class=\"card-body\">\n<p class=\"card-text\"><i class=\"fa-solid fa-microchip fa-2x fbg-icon\"></i> <br/> <span class=\"fbg-text\">Strategic Electronics</span></p>\n</div>\n</div>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=soft_tech",
+                "type": "internal",
+                "contents": [
+                    "\n",
+                    "<div class=\"card shadow\">\n<div class=\"card-body\">\n<p class=\"card-text\"><i class=\"fa-solid fa-compact-disc fa-2x fbg-icon\"></i> <br/> <span class=\"fbg-text\">Software Technologies</span></p>\n</div>\n</div>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=cyber_security",
+                "type": "internal",
+                "contents": [
+                    "\n",
+                    "<div class=\"card shadow\">\n<div class=\"card-body\">\n<p class=\"card-text\"><i class=\"fa-solid fa-shield-halved fa-2x fbg-icon\"></i> <br/> <span class=\"fbg-text\">Cyber Security &amp; Forensics</span></p>\n</div>\n</div>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=quantum_computing",
+                "type": "internal",
+                "contents": [
+                    "\n",
+                    "<div class=\"card shadow\">\n<div class=\"card-body\">\n<p class=\"card-text\"><i class=\"fa-solid fa-atom fa-2x fbg-icon\"></i> <br/> <span class=\"fbg-text\">Quantum Computing</span></p>\n</div>\n</div>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=health_info",
+                "type": "internal",
+                "contents": [
+                    "\n",
+                    "<div class=\"card shadow\">\n<div class=\"card-body\">\n<p class=\"card-text\"><i class=\"fa-solid fa-suitcase-medical fa-2x fbg-icon\"></i> <br/> <span class=\"fbg-text\">Health Informatics</span></p>\n</div>\n</div>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=education_training",
+                "type": "internal",
+                "contents": [
+                    "\n",
+                    "<div class=\"card shadow\">\n<div class=\"card-body\">\n<p class=\"card-text\"><i class=\"fa-solid fa-graduation-cap fa-2x fbg-icon\"></i> <br/> <span class=\"fbg-text\">Education &amp; Training</span></p>\n</div>\n</div>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=hgc",
+                "type": "internal",
+                "contents": [
+                    "Read More.."
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=professional_electronics",
+                "type": "internal",
+                "contents": [
+                    "Read More.."
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=mlingual_heritage",
+                "type": "internal",
+                "contents": [
+                    "Read More.."
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=soft_tech",
+                "type": "internal",
+                "contents": [
+                    "Read More.."
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=cyber_security",
+                "type": "internal",
+                "contents": [
+                    "Read More.."
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=quantum_computing",
+                "type": "internal",
+                "contents": [
+                    "Read More.."
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=health_info",
+                "type": "internal",
+                "contents": [
+                    "Read More.."
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=education_training",
+                "type": "internal",
+                "contents": [
+                    "Read More.."
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx",
+                "type": "internal",
+                "contents": [
+                    "<img alt=\"C-DAC Logo\" class=\"img-fluid\" src=\"/img/cdac-logo-sm.png\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=hgc",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-cloud fa-2x fbg-icon\"></i>",
+                    " ",
+                    "<br> <span class=\"fbg-text\">High Performance Computing</span></br>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=professional_electronics",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-microchip fa-2x fbg-icon\"></i>",
+                    " ",
+                    "<br/>",
+                    " ",
+                    "<span class=\"fbg-text\">Strategic Electronics</span>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=mlingual_heritage",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-language fa-2x fbg-icon\"></i>",
+                    " ",
+                    "<br/>",
+                    " ",
+                    "<span class=\"fbg-text\">Multilingual &amp; Heritage Computing</span>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=soft_tech",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-compact-disc fa-2x fbg-icon\"></i>",
+                    " ",
+                    "<br/>",
+                    " ",
+                    "<span class=\"fbg-text\">Software Technologies</span>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=cyber_security",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-shield-halved fa-2x fbg-icon\"></i>",
+                    " ",
+                    "<br/>",
+                    " ",
+                    "<span class=\"fbg-text\">Cyber Security &amp; Forensics</span>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=quantum_computing",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-atom fa-2x fbg-icon\"></i>",
+                    " ",
+                    "<br/>",
+                    " ",
+                    "<span class=\"fbg-text\">Quantum Computing</span>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=health_info",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-suitcase-medical fa-2x fbg-icon\"></i>",
+                    " ",
+                    "<br/>",
+                    " ",
+                    "<span class=\"fbg-text\">Health Informatics</span>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=education_training",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-graduation-cap fa-2x fbg-icon\"></i>",
+                    " ",
+                    "<br/>",
+                    " ",
+                    "<span class=\"fbg-text\">Education &amp; Training</span>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=reach_us",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-paper-plane fa-2x fbg-icon\"></i>",
+                    " ",
+                    "<br/>",
+                    " ",
+                    "<span class=\"fbg-text\">Reach Us</span>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=products_services",
+                "type": "internal",
+                "contents": [
+                    "Products "
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=products_services",
+                "type": "internal",
+                "contents": [
+                    "More ",
+                    "<i class=\"fa-solid fa-angles-right\"></i>",
+                    " "
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=pe_awcs_TPC_TETRA",
+                "type": "internal",
+                "contents": [
+                    "\n",
+                    "<img alt=\"TETRA\" class=\"card-img-top\" src=\"img/tetra.jpg\"/>",
+                    "\n",
+                    "<div class=\"card-body\">\n<p class=\"card-text\"><strong>TETRA</strong> Network for Critical Communication</p>\n</div>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=pe_ses_SEG_RO_UV",
+                "type": "internal",
+                "contents": [
+                    "\n",
+                    "<img alt=\"SEGROV\" class=\"card-img-top\" src=\"img/segrov.jpg\"/>",
+                    "\n",
+                    "<div class=\"card-body\">\n<p class=\"card-text\"><strong>Remotely Operated Underwater Vehicle</strong></p>\n</div>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=lu_digitalaya_launch",
+                "type": "internal",
+                "contents": [
+                    "\n",
+                    "<img alt=\"...\" class=\"card-img-top\" src=\"img/digitalaya.png\"/>",
+                    "\n",
+                    "<div class=\"card-body\">\n<p class=\"card-text\"><strong>Digitalaya</strong> - Electronic Records</p>\n</div>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=lu_param_shavakDL_launch",
+                "type": "internal",
+                "contents": [
+                    "\n",
+                    "<img alt=\"...\" class=\"card-img-top\" src=\"img/param_shavak.png\"/>",
+                    "\n",
+                    "<div class=\"card-body\">\n<p class=\"card-text\"><strong>PARAM SHAVAK DL GPU</strong></p>\n</div>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=products_services#serv",
+                "type": "internal",
+                "contents": [
+                    "Services "
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=products_services#serv",
+                "type": "internal",
+                "contents": [
+                    "More ",
+                    "<i class=\"fa-solid fa-angles-right\"></i>",
+                    " "
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://esign.cdac.in/",
+                "type": "external",
+                "contents": [
+                    "\n",
+                    "<img alt=\"...\" class=\"card-img-top\" src=\"img/ehastakshar.jpg\"/>",
+                    "\n",
+                    "<div class=\"card-body\">\n<p class=\"card-text\"><strong>e-Hastakshar</strong> - On-line Digital Signing Service</p>\n</div>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://www.dvdms.in/",
+                "type": "external",
+                "contents": [
+                    "\n",
+                    "<img alt=\"...\" class=\"card-img-top\" src=\"img/aushadhi.jpg\"/>",
+                    "\n",
+                    "<div class=\"card-body\">\n<p class=\"card-text\"><strong>e-Aushadhi</strong> - Supply Chain Management System</p>\n</div>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://mgov.gov.in/",
+                "type": "external",
+                "contents": [
+                    "\n",
+                    "<img alt=\"...\" class=\"card-img-top\" src=\"img/mobileseva.jpg\"/>",
+                    "\n",
+                    "<div class=\"card-body\">\n<p class=\"card-text\"><strong>Mobile Seva </strong>- Citizen Services on Mobile Phones </p>\n</div>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://epramaan.gov.in/",
+                "type": "external",
+                "contents": [
+                    "\n",
+                    "<img alt=\"...\" class=\"card-img-top\" src=\"img/ePramaan.png\"/>",
+                    "\n",
+                    "<div class=\"card-body\">\n<p class=\"card-text\"><strong>ePramaan</strong> is a standards based National e-Authentication framework</p>\n</div>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=latest_updates",
+                "type": "internal",
+                "contents": [
+                    "View All ",
+                    "<i class=\"fa-solid fa-angles-right\"></i>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=pk_itn_spot1348",
+                "type": "internal",
+                "contents": [
+                    "Read More.."
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=pk_itn_spot1337",
+                "type": "internal",
+                "contents": [
+                    "Read More.."
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=pk_itn_spot1315",
+                "type": "internal",
+                "contents": [
+                    "Read More.."
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://www.youtube.com/watch?v=9NG1MzKOHu4",
+                "type": "external",
+                "contents": [
+                    "webSIEM Solution"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://www.youtube.com/watch?v=oxGGYx84L3M",
+                "type": "external",
+                "contents": [
+                    "Cyber Security Operation Centre"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://www.youtube.com/watch?v=92hO4cREFng",
+                "type": "external",
+                "contents": [
+                    "E-Hastakshar"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://www.youtube.com/watch?v=_XbJI77f_tg",
+                "type": "external",
+                "contents": [
+                    "National Resource Centre for EHR Standards"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=audiov",
+                "type": "internal",
+                "contents": [
+                    " Know More.."
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=ev_isqci",
+                "type": "internal",
+                "contents": [
+                    "International Symposium on Quantum Computing and Innovations"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=events",
+                "type": "internal",
+                "contents": [
+                    " Know More.."
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=award_mSeva-App-Store",
+                "type": "internal",
+                "contents": [
+                    "Award for C-DAC mSeva App Store"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=award_GeoSadak",
+                "type": "internal",
+                "contents": [
+                    "GeoSmart Infrastructure Excellence Award 2022 for GeoSadak"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=award_eVoting",
+                "type": "internal",
+                "contents": [
+                    "eVoting application bags the \u201cTechnology Sabha Award 2022\u201d under the \u201cBlockchain\u201d category"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=Awards",
+                "type": "internal",
+                "contents": [
+                    " Know More.."
+                ],
+                "inner": null
+            },
+            {
+                "link": "http://cdac.in/index.aspx?id=tenders_details&token=MjcxODYxMjI=",
+                "type": "external",
+                "contents": [
+                    "Invitation for Expression of Interest (EoI) for Transfer of Technology (ToT) Of ..."
+                ],
+                "inner": null
+            },
+            {
+                "link": "http://cdac.in/index.aspx?id=tenders_details&token=MjEzODYwMjQ=",
+                "type": "external",
+                "contents": [
+                    "AMC Services on a comprehensive basis of the Nvidia Components of the PARAM SIDDHI AI ..."
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=tenders",
+                "type": "internal",
+                "contents": [
+                    " Know More.."
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=achieve_high_performance_computing",
+                "type": "internal",
+                "contents": [
+                    "Forest Fire Spread Simulation in part of North Sikkim using HPC"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=achieve_high_performance_computing",
+                "type": "internal",
+                "contents": [
+                    "High Performance Computing, Grid & Cloud Computing"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=achieve_cyber_security_forensic",
+                "type": "internal",
+                "contents": [
+                    "Cyber Security & Cyber Forensics"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=download",
+                "type": "internal",
+                "contents": [
+                    " Know More.."
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=aboutus_recognition",
+                "type": "internal",
+                "contents": [
+                    "Shri. Gaur Sunder elected as the Chair of SNOMED International Member Forum"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=aboutus_recognition",
+                "type": "internal",
+                "contents": [
+                    "Nomination of Dr. Anindita Banerjee as an expert to the iCET (India) group"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=aboutus_recognition",
+                "type": "internal",
+                "contents": [
+                    " Know More.."
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=dg_message",
+                "type": "internal",
+                "contents": [
+                    "Read More.."
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=BL",
+                "type": "internal",
+                "contents": [
+                    "<img alt=\"DG Pic\" class=\"card-img-top rounded-circle border border-5 border-white center-img shadow\" src=\"/index.aspx?id=img_bengaluru-center\"/>",
+                    " ",
+                    "<h6 class=\"pt-2\"> Bengaluru</h6>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=CH",
+                "type": "internal",
+                "contents": [
+                    "<img alt=\"DG Pic\" class=\"card-img-top rounded-circle border border-5 border-white center-img shadow\" src=\"/index.aspx?id=img_chennai-center\"/>",
+                    " ",
+                    "<h6 class=\"pt-2\"> Chennai</h6>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=DL",
+                "type": "internal",
+                "contents": [
+                    "<img alt=\"DG Pic\" class=\"card-img-top rounded-circle border border-5 border-white center-img shadow\" src=\"/index.aspx?id=img_delhi-center\"/>",
+                    " ",
+                    "<h6 class=\"pt-2\"> Delhi</h6>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=HY",
+                "type": "internal",
+                "contents": [
+                    "<img alt=\"DG Pic\" class=\"card-img-top rounded-circle border border-5 border-white center-img shadow\" src=\"/index.aspx?id=img_hyderabad-center\"/>",
+                    " ",
+                    "<h6 class=\"pt-2\"> Hyderabad</h6>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=KL",
+                "type": "internal",
+                "contents": [
+                    "<img alt=\"DG Pic\" class=\"card-img-top rounded-circle border border-5 border-white center-img shadow\" src=\"/index.aspx?id=img_kolkata-center\"/>",
+                    " ",
+                    "<h6 class=\"pt-2\"> Kolkata</h6>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=ML",
+                "type": "internal",
+                "contents": [
+                    " ",
+                    "<img alt=\"DG Pic\" class=\"card-img-top rounded-circle border border-5 border-white center-img shadow\" src=\"/index.aspx?id=img_mohali-center\"/>",
+                    " ",
+                    "<h6 class=\"pt-2\"> Mohali</h6>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=MB",
+                "type": "internal",
+                "contents": [
+                    "<img alt=\"DG Pic\" class=\"card-img-top rounded-circle border border-5 border-white center-img shadow\" src=\"/index.aspx?id=img_mumbai-center\"/>",
+                    " ",
+                    "<h6 class=\"pt-2\"> Mumbai</h6>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=ND",
+                "type": "internal",
+                "contents": [
+                    "<img alt=\"DG Pic\" class=\"card-img-top rounded-circle border border-5 border-white center-img shadow\" src=\"/index.aspx?id=img_noida-center\"/>",
+                    " ",
+                    "<h6 class=\"pt-2\"> Noida</h6>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=PT",
+                "type": "internal",
+                "contents": [
+                    "<img alt=\"DG Pic\" class=\"card-img-top rounded-circle border border-5 border-white center-img shadow\" src=\"/index.aspx?id=img_patna-center\"/>",
+                    " ",
+                    "<h6 class=\"pt-2\"> Patna</h6>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=PN",
+                "type": "internal",
+                "contents": [
+                    "<img alt=\"DG Pic\" class=\"card-img-top rounded-circle border border-5 border-white center-img shadow\" src=\"/index.aspx?id=img_pune-center\"/>",
+                    " ",
+                    "<h6 class=\"pt-2\"> Pune</h6>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=SL",
+                "type": "internal",
+                "contents": [
+                    "<img alt=\"DG Pic\" class=\"card-img-top rounded-circle border border-5 border-white center-img shadow\" src=\"/index.aspx?id=img_silchar-center\"/>",
+                    " ",
+                    "<h6 class=\"pt-2\"> Silchar</h6>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=TVM",
+                "type": "internal",
+                "contents": [
+                    "<img alt=\"DG Pic\" class=\"card-img-top rounded-circle border border-5 border-white center-img shadow\" src=\"/index.aspx?id=img_tvm-center\"/>",
+                    " ",
+                    "<h6 class=\"pt-2\"> Thiruvananthapuram</h6>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=sponsored_projects",
+                "type": "internal",
+                "contents": [
+                    "Sponsored Projects"
+                ],
+                "inner": null
+            },
+            {
+                "link": "http://ildc.in",
+                "type": "external",
+                "contents": [
+                    "Download software tools & fonts for 22 Indian languages"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=north_east_initiatives",
+                "type": "internal",
+                "contents": [
+                    "North East Initiatives"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=cdac_portals",
+                "type": "internal",
+                "contents": [
+                    "Portals"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=patents",
+                "type": "internal",
+                "contents": [
+                    "Patents"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=download",
+                "type": "internal",
+                "contents": [
+                    "Download"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=dl_mlingual_tools",
+                "type": "internal",
+                "contents": [
+                    "Multilingual Tools"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=cs_eps_freedownloads_",
+                "type": "internal",
+                "contents": [
+                    "End Point Security Solutions"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=article",
+                "type": "internal",
+                "contents": [
+                    "Articles"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=AnnualReports",
+                "type": "internal",
+                "contents": [
+                    "Annual Reports"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=blog",
+                "type": "internal",
+                "contents": [
+                    "Blog"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://www.meity.gov.in/",
+                "type": "external",
+                "contents": [
+                    "MeitY"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=rti",
+                "type": "internal",
+                "contents": [
+                    "RTI"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=pdf_IoA_Collaboration_Innovation_V10",
+                "type": "internal",
+                "contents": [
+                    "Intent of Association for Collaborative Innovation"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=pdf_GPAI-Summit-Research-Symposium-Call-Abstracts-",
+                "type": "internal",
+                "contents": [
+                    "GPAI Summit 2023: Call for Abstracts for Research Symposium"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=release",
+                "type": "internal",
+                "contents": [
+                    "Press Release"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=innews",
+                "type": "internal",
+                "contents": [
+                    "News"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=pk_pr_prs_rl250",
+                "type": "internal",
+                "contents": [
+                    "Visiting Finland Minister of Economic Affairs Mika Lintila meets Union Minister of State (Independent Charge) Science and Technology, Dr Jitendra Singh"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=pk_itn_spot1348",
+                "type": "internal",
+                "contents": [
+                    "From scans to facial recognition, how AI tech is securing new Parliament building"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=pk_itn_spot1347",
+                "type": "internal",
+                "contents": [
+                    "Face recognition tech for MPs at new Parliament"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=edu_acts_PGDiplomaAdmission",
+                "type": "internal",
+                "contents": [
+                    "PG Diploma Next Batch Commencement: 8 September 2023"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=edu_acts_PGDiplomaAdmission",
+                "type": "internal",
+                "contents": [
+                    "Dates for CCAT Application: 6 June 2023 to 5 July 2023 "
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=edu_acts_PGDiplomaAdmission",
+                "type": "internal",
+                "contents": [
+                    "Dates of CCAT at Test Centres: 15 and 16 July 2023 "
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=ActsPlacement",
+                "type": "internal",
+                "contents": [
+                    "Excellent Placements for C-DAC's PG Diploma Students"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=tenders_eoi",
+                "type": "internal",
+                "contents": [
+                    "Expression of Interest (EoI)"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=tenders_vlceoi",
+                "type": "internal",
+                "contents": [
+                    "Expression of Interest (EoI) for ToT of Visible Light Communication based LED Lighting Solutions"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://www.facebook.com/CDACINDIA",
+                "type": "external",
+                "contents": [
+                    "Centre for Development of Advanced Computing : C-DAC"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://twitter.com/cdacindia?ref_src=twsrc%5Etfw",
+                "type": "external",
+                "contents": [
+                    "Tweets by cdacindia"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://www.facebook.com/CDACINDIA",
+                "type": "external",
+                "contents": [
+                    "<img alt=\"Facebook\" class=\"img-fluid\" src=\"/index.aspx?id=img_ico_fb\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://twitter.com/cdacindia",
+                "type": "external",
+                "contents": [
+                    "<img alt=\"twitter\" class=\"img-fluid\" src=\"/index.aspx?id=img_ico_twitter\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://in.linkedin.com/company/cdac",
+                "type": "external",
+                "contents": [
+                    "<img alt=\"linkdin\" class=\"img-fluid\" src=\"/index.aspx?id=img_ico_linkdin\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://www.kooapp.com/profile/cdacindia",
+                "type": "external",
+                "contents": [
+                    "<img alt=\"koo\" class=\"img-fluid\" src=\"/index.aspx?id=img_ico_koo\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://www.youtube.com/c/CDACOfficial",
+                "type": "external",
+                "contents": [
+                    "<img alt=\"YouTube\" class=\"img-fluid\" src=\"/index.aspx?id=img_ico_youtube\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://www.meity.gov.in/",
+                "type": "external",
+                "contents": [
+                    "<img alt=\"MeitY Logo\" class=\"img-fluid\" src=\"/index.aspx?id=img_loin-head\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://amritmahotsav.nic.in/",
+                "type": "external",
+                "contents": [
+                    "<img alt=\"azadi logo\" class=\"img-fluid\" src=\"img/azadi.png\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://www.g20.org/",
+                "type": "external",
+                "contents": [
+                    "<img alt=\"G20\" class=\"img-fluid\" src=\"/index.aspx?id=img_g20\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://www.bhimupi.org.in/",
+                "type": "external",
+                "contents": [
+                    "<img alt=\"bhimapp\" class=\"img-fluid\" src=\"img/bhim_upi.png\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://digitalindia.gov.in/",
+                "type": "external",
+                "contents": [
+                    "<img alt=\"Digital India\" class=\"img-fluid\" src=\"img/digitalindia.png\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://www.india.gov.in/",
+                "type": "external",
+                "contents": [
+                    "\n",
+                    "<img alt=\"india.gov.in\" class=\"img-fluid\" src=\"img/india.gov.png\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://swachhbharatmission.gov.in/",
+                "type": "external",
+                "contents": [
+                    "<img alt=\"swachh bharat\" class=\"img-fluid\" src=\"img/swachh_bharat.png\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=BL",
+                "type": "internal",
+                "contents": [
+                    "Bengaluru "
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=CH",
+                "type": "internal",
+                "contents": [
+                    "Chennai "
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=DL",
+                "type": "internal",
+                "contents": [
+                    "Delhi"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=HY",
+                "type": "internal",
+                "contents": [
+                    "Hyderabad "
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=KL",
+                "type": "internal",
+                "contents": [
+                    "Kolkata"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=ML",
+                "type": "internal",
+                "contents": [
+                    "Mohali"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=MB",
+                "type": "internal",
+                "contents": [
+                    "Mumbai"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=ND",
+                "type": "internal",
+                "contents": [
+                    "Noida "
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=PT",
+                "type": "internal",
+                "contents": [
+                    "Patna "
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=PN",
+                "type": "internal",
+                "contents": [
+                    "Pune "
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=SL",
+                "type": "internal",
+                "contents": [
+                    "Silchar"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=TVM",
+                "type": "internal",
+                "contents": [
+                    "Thiruvananthapuram"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=about",
+                "type": "internal",
+                "contents": [
+                    "About Us"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=products_services",
+                "type": "internal",
+                "contents": [
+                    "Products & Services"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=research",
+                "type": "internal",
+                "contents": [
+                    "R&D "
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=career",
+                "type": "internal",
+                "contents": [
+                    "Careers"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=tenders",
+                "type": "internal",
+                "contents": [
+                    "Tenders"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=news",
+                "type": "internal",
+                "contents": [
+                    "Press Kit"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=audiov",
+                "type": "internal",
+                "contents": [
+                    "Video Gallery"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=events",
+                "type": "internal",
+                "contents": [
+                    "Events"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=Awards",
+                "type": "internal",
+                "contents": [
+                    "Awards"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=download",
+                "type": "internal",
+                "contents": [
+                    "Downloads"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=cdac_achievements",
+                "type": "internal",
+                "contents": [
+                    "Achievements"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=alliance",
+                "type": "internal",
+                "contents": [
+                    "Alliance"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://goo.gl/maps/Ee1Yg7QBgMSqbTat9",
+                "type": "external",
+                "contents": [
+                    "<img class=\"img-fluid border shadow\" src=\"/img/map.jpg\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=help",
+                "type": "internal",
+                "contents": [
+                    "Help"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=website_policies",
+                "type": "internal",
+                "contents": [
+                    "Website Policies"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=legal_notice#2",
+                "type": "internal",
+                "contents": [
+                    "Copyright Policy"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=terms_conditions",
+                "type": "internal",
+                "contents": [
+                    "Terms & Conditions"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=reach_us",
+                "type": "internal",
+                "contents": [
+                    "Reach Us"
+                ],
+                "inner": null
+            },
+            {
+                "link": "#",
+                "type": "external",
+                "contents": [
+                    "<i class=\"fa fa-angle-up px-2\"></i>",
+                    " Top"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=sector\u00a7or_name=Education and Skill Building",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-school px-1\"></i>",
+                    " Education and Skill Building"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=sector\u00a7or_name=Government and Public Sector",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-building-flag px-1\"></i>",
+                    " Government and Public Sector"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=sector\u00a7or_name=Industry (including Startups/MSME)",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-industry px-1\"></i>",
+                    " Industry (including Startups/MSME)"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=sector\u00a7or_name=Law Enforcement Agencies",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-gavel px-1\"></i>",
+                    " Law Enforcement Agencies"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=sector\u00a7or_name=Smart Cities and Transportation",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-house-signal px-1\"></i>",
+                    " Smart Cities and Transportation"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=sector\u00a7or_name=Broadcast and Communications",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-tower-broadcast px-1\"></i>",
+                    " Broadcast and Communications"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=sector\u00a7or_name=Financial Services",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-sharp fa-solid fa-coins px-1\"></i>",
+                    " Financial Services"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=sector\u00a7or_name=Healthcare and Life Sciences",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-suitcase-medical px-1\"></i>",
+                    " Healthcare and Life Sciences"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=sector\u00a7or_name=Defense and Strategic",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-shield-halved px-1\"></i>",
+                    "  Defense and Strategic"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=profile&profile_name=Students",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-graduation-cap px-1\"></i>",
+                    " Students"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=profile&profile_name=Academia and Researcher",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-book-open-reader px-1\"></i>",
+                    " Academia and Researcher"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=profile&profile_name=Entrepreneurs",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-briefcase px-1\"></i>",
+                    " Entrepreneurs"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=profile&profile_name=Solution Aggregators / Integrators",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-gears px-1\"></i>",
+                    " Solution Aggregators / Integrators"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=profile&profile_name=International Audience",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-people-group px-1\"></i>",
+                    " International Audience"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=profile&profile_name=Press",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-newspaper px-1\"></i>",
+                    " Press"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=profile&profile_name=Career Seekers",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-user-tie px-1\"></i>",
+                    " Career Seekers"
+                ],
+                "inner": null
+            }
+        ]
+    },
+    "https": {
+        "redirects To": "https://cdac.in/",
+        "has external scripts": true,
+        "script files": [
+            {
+                "route": "/js/jquery.min.js",
+                "cross origin": null,
+                "script_type": "text/javascript",
+                "type": "internal"
+            },
+            {
+                "route": "https://platform.twitter.com/widgets.js",
+                "cross origin": null,
+                "script_type": null,
+                "type": "external"
+            },
+            {
+                "route": "/js/carousel.js",
+                "cross origin": null,
+                "script_type": "text/javascript",
+                "type": "internal"
+            },
+            {
+                "route": "https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v14.0",
+                "cross origin": "anonymous",
+                "script_type": null,
+                "type": "external"
+            },
+            {
+                "route": "/js/bootstrap.min.js",
+                "cross origin": null,
+                "script_type": "text/javascript",
+                "type": "internal"
+            },
+            {
+                "route": "/js/bootstrap.bundle.min.js",
+                "cross origin": null,
+                "script_type": "text/javascript",
+                "type": "internal"
+            },
+            {
+                "route": "/js/swiper-bundle.min.js",
+                "cross origin": null,
+                "script_type": "text/javascript",
+                "type": "internal"
+            },
+            {
+                "route": "/js/jquery.colorbox.js",
+                "cross origin": null,
+                "script_type": "text/javascript",
+                "type": "internal"
+            },
+            {
+                "route": "/js/accessibility.min.js",
+                "cross origin": null,
+                "script_type": "text/javascript",
+                "type": "internal"
+            },
+            {
+                "route": "/js/aos.js",
+                "cross origin": null,
+                "script_type": "text/javascript",
+                "type": "internal"
+            },
+            {
+                "route": "/js/confirm.js",
+                "cross origin": null,
+                "script_type": "text/javascript",
+                "type": "internal"
+            },
+            {
+                "route": "https://gistlangserver.in/demos/cdacSearch.min.js",
+                "cross origin": null,
+                "script_type": null,
+                "type": "external"
+            }
+        ],
+        "has links": true,
+        "links": [
+            {
+                "link": "/index.aspx?id=pdf_Techzine",
+                "type": "internal",
+                "contents": [
+                    "<span><i class=\"fa-solid fa-play px-1\"></i> <strong>Techzine</strong> <small> - C-DAC R&amp;D Digest </small></span>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "#nav",
+                "type": "external",
+                "contents": [
+                    "Skip to navigation"
+                ],
+                "inner": null
+            },
+            {
+                "link": "#content",
+                "type": "external",
+                "contents": [
+                    "\r\n                              Skip to main content"
+                ],
+                "inner": null
+            },
+            {
+                "link": "javascript:__doPostBack('hi','')",
+                "type": "external",
+                "contents": [
+                    "\u0939\u093f\u0928\u094d\u0926\u0940"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx",
+                "type": "internal",
+                "contents": [
+                    "<img class=\"img-fluid\" src=\"/img/cdac-logo-sm.png\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx",
+                "type": "internal",
+                "contents": [
+                    "<img class=\"img-fluid\" src=\"/img/cdac-logo.png\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=msearch",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fas fa-search p-1\"></i>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-house\"></i>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=about",
+                "type": "internal",
+                "contents": [
+                    "About Us"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=products_services",
+                "type": "internal",
+                "contents": [
+                    "Products & Services"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=research",
+                "type": "internal",
+                "contents": [
+                    "R&D "
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=alliance",
+                "type": "internal",
+                "contents": [
+                    "Alliance"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=tenders",
+                "type": "internal",
+                "contents": [
+                    "Tenders"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=tenders_eoi",
+                "type": "internal",
+                "contents": [
+                    "/ \u00a0EOI"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=tenders_eoi",
+                "type": "internal",
+                "contents": [
+                    "EXPRESSION OF INTEREST"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=career",
+                "type": "internal",
+                "contents": [
+                    "Careers"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=contact",
+                "type": "internal",
+                "contents": [
+                    "Contact Us"
+                ],
+                "inner": null
+            },
+            {
+                "link": "#",
+                "type": "external",
+                "contents": [
+                    "\r\n                    Thematic Area                  "
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=hgc",
+                "type": "internal",
+                "contents": [
+                    "High Performance Computing"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=professional_electronics",
+                "type": "internal",
+                "contents": [
+                    "Strategic\r\n                        Electronics"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=mlingual_heritage",
+                "type": "internal",
+                "contents": [
+                    "Multilingual & Heritage\r\n                        Computing"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=soft_tech",
+                "type": "internal",
+                "contents": [
+                    "Software Technologies"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=cyber_security",
+                "type": "internal",
+                "contents": [
+                    "Cyber Security & Forensics"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=quantum_computing",
+                "type": "internal",
+                "contents": [
+                    "Quantum Computing"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=health_info",
+                "type": "internal",
+                "contents": [
+                    "Health Informatics"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=education_training",
+                "type": "internal",
+                "contents": [
+                    "Education & Training"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://www.isgns2023.com/ ",
+                "type": "external",
+                "contents": [
+                    "<img alt=\"ISG\" class=\"d-block w-100\" src=\"/index.aspx?id=img_showcase&amp;dynamicId=ISG.jpg\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://nsmindia.in/node/209 ",
+                "type": "external",
+                "contents": [
+                    "<img alt=\"ER-DCI\" class=\"d-block w-100\" src=\"/index.aspx?id=img_showcase&amp;dynamicId=computational-chemistry.jpg\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "http://www.erdciit.ac.in/",
+                "type": "external",
+                "contents": [
+                    "<img alt=\"ER-DCI\" class=\"d-block w-100\" src=\"/index.aspx?id=img_showcase&amp;dynamicId=ER-DCI.jpg\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=hpc_nsf_npsfidx",
+                "type": "internal",
+                "contents": [
+                    "<img alt=\"Airawat\" class=\"d-block w-100\" src=\"/index.aspx?id=img_showcase&amp;dynamicId=airawat.jpg\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=lu_EOI-NSM",
+                "type": "internal",
+                "contents": [
+                    "<img alt=\"EoI-NSM\" class=\"d-block w-100\" src=\"/index.aspx?id=img_hpc_EoI\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://agnipathvayu.cdac.in/AV/",
+                "type": "external",
+                "contents": [
+                    "<img alt=\"...\" class=\"d-block w-100\" src=\"/index.aspx?id=img_Agnipath \"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://c2s.gov.in/index.jsp",
+                "type": "external",
+                "contents": [
+                    " ",
+                    "<img alt=\"...\" class=\"d-block w-100\" src=\"/index.aspx?id=img_C2S\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://cdac.in/index.aspx?id=pdf_IoA_Collaboration_Innovation_V10",
+                "type": "internal",
+                "contents": [
+                    "<img alt=\"...\" class=\"d-block w-100\" src=\"/index.aspx?id=img_Collaborative\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=img_ICSTA_Banner",
+                "type": "internal",
+                "contents": [
+                    "<img alt=\"ICSTA\" class=\"d-block w-100\" src=\"/index.aspx?id=img_showcase&amp;dynamicId=ICSTA.jpg\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "http://www.acsd.ac.in/onlinefill.aspx",
+                "type": "external",
+                "contents": [
+                    "<img alt=\"...\" class=\"d-block w-100\" src=\"/index.aspx?id=img_M.Tech_Program \"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://ipu.admissions.nic.in/",
+                "type": "external",
+                "contents": [
+                    "<img alt=\"MCA Addmission Banner\" class=\"d-block w-100\" src=\"/index.aspx?id=img_MCA\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=hgc",
+                "type": "internal",
+                "contents": [
+                    "\n",
+                    "<div class=\"card shadow\">\n<div class=\"card-body\">\n<p class=\"card-text\"><i class=\"fa-solid fa-cloud fa-2x fbg-icon\"></i> <br/> <span class=\"fbg-text\">High Performance Computing</span></p>\n</div>\n</div>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=mlingual_heritage",
+                "type": "internal",
+                "contents": [
+                    "\n",
+                    "<div class=\"card shadow\">\n<div class=\"card-body\">\n<p class=\"card-text\"><i class=\"fa-solid fa-language fa-2x fbg-icon\"></i> <br/> <span class=\"fbg-text\">Multilingual &amp; Heritage Computing</span></p>\n</div>\n</div>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=professional_electronics",
+                "type": "internal",
+                "contents": [
+                    "\n",
+                    "<div class=\"card shadow\">\n<div class=\"card-body\">\n<p class=\"card-text\"><i class=\"fa-solid fa-microchip fa-2x fbg-icon\"></i> <br/> <span class=\"fbg-text\">Strategic Electronics</span></p>\n</div>\n</div>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=soft_tech",
+                "type": "internal",
+                "contents": [
+                    "\n",
+                    "<div class=\"card shadow\">\n<div class=\"card-body\">\n<p class=\"card-text\"><i class=\"fa-solid fa-compact-disc fa-2x fbg-icon\"></i> <br/> <span class=\"fbg-text\">Software Technologies</span></p>\n</div>\n</div>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=cyber_security",
+                "type": "internal",
+                "contents": [
+                    "\n",
+                    "<div class=\"card shadow\">\n<div class=\"card-body\">\n<p class=\"card-text\"><i class=\"fa-solid fa-shield-halved fa-2x fbg-icon\"></i> <br/> <span class=\"fbg-text\">Cyber Security &amp; Forensics</span></p>\n</div>\n</div>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=quantum_computing",
+                "type": "internal",
+                "contents": [
+                    "\n",
+                    "<div class=\"card shadow\">\n<div class=\"card-body\">\n<p class=\"card-text\"><i class=\"fa-solid fa-atom fa-2x fbg-icon\"></i> <br/> <span class=\"fbg-text\">Quantum Computing</span></p>\n</div>\n</div>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=health_info",
+                "type": "internal",
+                "contents": [
+                    "\n",
+                    "<div class=\"card shadow\">\n<div class=\"card-body\">\n<p class=\"card-text\"><i class=\"fa-solid fa-suitcase-medical fa-2x fbg-icon\"></i> <br/> <span class=\"fbg-text\">Health Informatics</span></p>\n</div>\n</div>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=education_training",
+                "type": "internal",
+                "contents": [
+                    "\n",
+                    "<div class=\"card shadow\">\n<div class=\"card-body\">\n<p class=\"card-text\"><i class=\"fa-solid fa-graduation-cap fa-2x fbg-icon\"></i> <br/> <span class=\"fbg-text\">Education &amp; Training</span></p>\n</div>\n</div>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=hgc",
+                "type": "internal",
+                "contents": [
+                    "Read More.."
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=professional_electronics",
+                "type": "internal",
+                "contents": [
+                    "Read More.."
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=mlingual_heritage",
+                "type": "internal",
+                "contents": [
+                    "Read More.."
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=soft_tech",
+                "type": "internal",
+                "contents": [
+                    "Read More.."
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=cyber_security",
+                "type": "internal",
+                "contents": [
+                    "Read More.."
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=quantum_computing",
+                "type": "internal",
+                "contents": [
+                    "Read More.."
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=health_info",
+                "type": "internal",
+                "contents": [
+                    "Read More.."
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=education_training",
+                "type": "internal",
+                "contents": [
+                    "Read More.."
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx",
+                "type": "internal",
+                "contents": [
+                    "<img alt=\"C-DAC Logo\" class=\"img-fluid\" src=\"/img/cdac-logo-sm.png\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=hgc",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-cloud fa-2x fbg-icon\"></i>",
+                    " ",
+                    "<br> <span class=\"fbg-text\">High Performance Computing</span></br>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=professional_electronics",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-microchip fa-2x fbg-icon\"></i>",
+                    " ",
+                    "<br/>",
+                    " ",
+                    "<span class=\"fbg-text\">Strategic Electronics</span>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=mlingual_heritage",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-language fa-2x fbg-icon\"></i>",
+                    " ",
+                    "<br/>",
+                    " ",
+                    "<span class=\"fbg-text\">Multilingual &amp; Heritage Computing</span>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=soft_tech",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-compact-disc fa-2x fbg-icon\"></i>",
+                    " ",
+                    "<br/>",
+                    " ",
+                    "<span class=\"fbg-text\">Software Technologies</span>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=cyber_security",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-shield-halved fa-2x fbg-icon\"></i>",
+                    " ",
+                    "<br/>",
+                    " ",
+                    "<span class=\"fbg-text\">Cyber Security &amp; Forensics</span>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=quantum_computing",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-atom fa-2x fbg-icon\"></i>",
+                    " ",
+                    "<br/>",
+                    " ",
+                    "<span class=\"fbg-text\">Quantum Computing</span>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=health_info",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-suitcase-medical fa-2x fbg-icon\"></i>",
+                    " ",
+                    "<br/>",
+                    " ",
+                    "<span class=\"fbg-text\">Health Informatics</span>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=education_training",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-graduation-cap fa-2x fbg-icon\"></i>",
+                    " ",
+                    "<br/>",
+                    " ",
+                    "<span class=\"fbg-text\">Education &amp; Training</span>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=reach_us",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-paper-plane fa-2x fbg-icon\"></i>",
+                    " ",
+                    "<br/>",
+                    " ",
+                    "<span class=\"fbg-text\">Reach Us</span>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=products_services",
+                "type": "internal",
+                "contents": [
+                    "Products "
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=products_services",
+                "type": "internal",
+                "contents": [
+                    "More ",
+                    "<i class=\"fa-solid fa-angles-right\"></i>",
+                    " "
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=pe_awcs_TPC_TETRA",
+                "type": "internal",
+                "contents": [
+                    "\n",
+                    "<img alt=\"TETRA\" class=\"card-img-top\" src=\"img/tetra.jpg\"/>",
+                    "\n",
+                    "<div class=\"card-body\">\n<p class=\"card-text\"><strong>TETRA</strong> Network for Critical Communication</p>\n</div>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=pe_ses_SEG_RO_UV",
+                "type": "internal",
+                "contents": [
+                    "\n",
+                    "<img alt=\"SEGROV\" class=\"card-img-top\" src=\"img/segrov.jpg\"/>",
+                    "\n",
+                    "<div class=\"card-body\">\n<p class=\"card-text\"><strong>Remotely Operated Underwater Vehicle</strong></p>\n</div>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=lu_digitalaya_launch",
+                "type": "internal",
+                "contents": [
+                    "\n",
+                    "<img alt=\"...\" class=\"card-img-top\" src=\"img/digitalaya.png\"/>",
+                    "\n",
+                    "<div class=\"card-body\">\n<p class=\"card-text\"><strong>Digitalaya</strong> - Electronic Records</p>\n</div>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=lu_param_shavakDL_launch",
+                "type": "internal",
+                "contents": [
+                    "\n",
+                    "<img alt=\"...\" class=\"card-img-top\" src=\"img/param_shavak.png\"/>",
+                    "\n",
+                    "<div class=\"card-body\">\n<p class=\"card-text\"><strong>PARAM SHAVAK DL GPU</strong></p>\n</div>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=products_services#serv",
+                "type": "internal",
+                "contents": [
+                    "Services "
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=products_services#serv",
+                "type": "internal",
+                "contents": [
+                    "More ",
+                    "<i class=\"fa-solid fa-angles-right\"></i>",
+                    " "
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://esign.cdac.in/",
+                "type": "external",
+                "contents": [
+                    "\n",
+                    "<img alt=\"...\" class=\"card-img-top\" src=\"img/ehastakshar.jpg\"/>",
+                    "\n",
+                    "<div class=\"card-body\">\n<p class=\"card-text\"><strong>e-Hastakshar</strong> - On-line Digital Signing Service</p>\n</div>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://www.dvdms.in/",
+                "type": "external",
+                "contents": [
+                    "\n",
+                    "<img alt=\"...\" class=\"card-img-top\" src=\"img/aushadhi.jpg\"/>",
+                    "\n",
+                    "<div class=\"card-body\">\n<p class=\"card-text\"><strong>e-Aushadhi</strong> - Supply Chain Management System</p>\n</div>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://mgov.gov.in/",
+                "type": "external",
+                "contents": [
+                    "\n",
+                    "<img alt=\"...\" class=\"card-img-top\" src=\"img/mobileseva.jpg\"/>",
+                    "\n",
+                    "<div class=\"card-body\">\n<p class=\"card-text\"><strong>Mobile Seva </strong>- Citizen Services on Mobile Phones </p>\n</div>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://epramaan.gov.in/",
+                "type": "external",
+                "contents": [
+                    "\n",
+                    "<img alt=\"...\" class=\"card-img-top\" src=\"img/ePramaan.png\"/>",
+                    "\n",
+                    "<div class=\"card-body\">\n<p class=\"card-text\"><strong>ePramaan</strong> is a standards based National e-Authentication framework</p>\n</div>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=latest_updates",
+                "type": "internal",
+                "contents": [
+                    "View All ",
+                    "<i class=\"fa-solid fa-angles-right\"></i>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=pk_itn_spot1348",
+                "type": "internal",
+                "contents": [
+                    "Read More.."
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=pk_itn_spot1337",
+                "type": "internal",
+                "contents": [
+                    "Read More.."
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=pk_itn_spot1315",
+                "type": "internal",
+                "contents": [
+                    "Read More.."
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://www.youtube.com/watch?v=9NG1MzKOHu4",
+                "type": "external",
+                "contents": [
+                    "webSIEM Solution"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://www.youtube.com/watch?v=oxGGYx84L3M",
+                "type": "external",
+                "contents": [
+                    "Cyber Security Operation Centre"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://www.youtube.com/watch?v=92hO4cREFng",
+                "type": "external",
+                "contents": [
+                    "E-Hastakshar"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://www.youtube.com/watch?v=_XbJI77f_tg",
+                "type": "external",
+                "contents": [
+                    "National Resource Centre for EHR Standards"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=audiov",
+                "type": "internal",
+                "contents": [
+                    " Know More.."
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=ev_isqci",
+                "type": "internal",
+                "contents": [
+                    "International Symposium on Quantum Computing and Innovations"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=events",
+                "type": "internal",
+                "contents": [
+                    " Know More.."
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=award_mSeva-App-Store",
+                "type": "internal",
+                "contents": [
+                    "Award for C-DAC mSeva App Store"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=award_GeoSadak",
+                "type": "internal",
+                "contents": [
+                    "GeoSmart Infrastructure Excellence Award 2022 for GeoSadak"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=award_eVoting",
+                "type": "internal",
+                "contents": [
+                    "eVoting application bags the \u201cTechnology Sabha Award 2022\u201d under the \u201cBlockchain\u201d category"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=Awards",
+                "type": "internal",
+                "contents": [
+                    " Know More.."
+                ],
+                "inner": null
+            },
+            {
+                "link": "http://cdac.in/index.aspx?id=tenders_details&token=MjcxODYxMjI=",
+                "type": "external",
+                "contents": [
+                    "Invitation for Expression of Interest (EoI) for Transfer of Technology (ToT) Of ..."
+                ],
+                "inner": null
+            },
+            {
+                "link": "http://cdac.in/index.aspx?id=tenders_details&token=MjEzODYwMjQ=",
+                "type": "external",
+                "contents": [
+                    "AMC Services on a comprehensive basis of the Nvidia Components of the PARAM SIDDHI AI ..."
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=tenders",
+                "type": "internal",
+                "contents": [
+                    " Know More.."
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=achieve_high_performance_computing",
+                "type": "internal",
+                "contents": [
+                    "Forest Fire Spread Simulation in part of North Sikkim using HPC"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=achieve_high_performance_computing",
+                "type": "internal",
+                "contents": [
+                    "High Performance Computing, Grid & Cloud Computing"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=achieve_cyber_security_forensic",
+                "type": "internal",
+                "contents": [
+                    "Cyber Security & Cyber Forensics"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=download",
+                "type": "internal",
+                "contents": [
+                    " Know More.."
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=aboutus_recognition",
+                "type": "internal",
+                "contents": [
+                    "Shri. Gaur Sunder elected as the Chair of SNOMED International Member Forum"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=aboutus_recognition",
+                "type": "internal",
+                "contents": [
+                    "Nomination of Dr. Anindita Banerjee as an expert to the iCET (India) group"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=aboutus_recognition",
+                "type": "internal",
+                "contents": [
+                    " Know More.."
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=dg_message",
+                "type": "internal",
+                "contents": [
+                    "Read More.."
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=BL",
+                "type": "internal",
+                "contents": [
+                    "<img alt=\"DG Pic\" class=\"card-img-top rounded-circle border border-5 border-white center-img shadow\" src=\"/index.aspx?id=img_bengaluru-center\"/>",
+                    " ",
+                    "<h6 class=\"pt-2\"> Bengaluru</h6>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=CH",
+                "type": "internal",
+                "contents": [
+                    "<img alt=\"DG Pic\" class=\"card-img-top rounded-circle border border-5 border-white center-img shadow\" src=\"/index.aspx?id=img_chennai-center\"/>",
+                    " ",
+                    "<h6 class=\"pt-2\"> Chennai</h6>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=DL",
+                "type": "internal",
+                "contents": [
+                    "<img alt=\"DG Pic\" class=\"card-img-top rounded-circle border border-5 border-white center-img shadow\" src=\"/index.aspx?id=img_delhi-center\"/>",
+                    " ",
+                    "<h6 class=\"pt-2\"> Delhi</h6>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=HY",
+                "type": "internal",
+                "contents": [
+                    "<img alt=\"DG Pic\" class=\"card-img-top rounded-circle border border-5 border-white center-img shadow\" src=\"/index.aspx?id=img_hyderabad-center\"/>",
+                    " ",
+                    "<h6 class=\"pt-2\"> Hyderabad</h6>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=KL",
+                "type": "internal",
+                "contents": [
+                    "<img alt=\"DG Pic\" class=\"card-img-top rounded-circle border border-5 border-white center-img shadow\" src=\"/index.aspx?id=img_kolkata-center\"/>",
+                    " ",
+                    "<h6 class=\"pt-2\"> Kolkata</h6>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=ML",
+                "type": "internal",
+                "contents": [
+                    " ",
+                    "<img alt=\"DG Pic\" class=\"card-img-top rounded-circle border border-5 border-white center-img shadow\" src=\"/index.aspx?id=img_mohali-center\"/>",
+                    " ",
+                    "<h6 class=\"pt-2\"> Mohali</h6>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=MB",
+                "type": "internal",
+                "contents": [
+                    "<img alt=\"DG Pic\" class=\"card-img-top rounded-circle border border-5 border-white center-img shadow\" src=\"/index.aspx?id=img_mumbai-center\"/>",
+                    " ",
+                    "<h6 class=\"pt-2\"> Mumbai</h6>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=ND",
+                "type": "internal",
+                "contents": [
+                    "<img alt=\"DG Pic\" class=\"card-img-top rounded-circle border border-5 border-white center-img shadow\" src=\"/index.aspx?id=img_noida-center\"/>",
+                    " ",
+                    "<h6 class=\"pt-2\"> Noida</h6>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=PT",
+                "type": "internal",
+                "contents": [
+                    "<img alt=\"DG Pic\" class=\"card-img-top rounded-circle border border-5 border-white center-img shadow\" src=\"/index.aspx?id=img_patna-center\"/>",
+                    " ",
+                    "<h6 class=\"pt-2\"> Patna</h6>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=PN",
+                "type": "internal",
+                "contents": [
+                    "<img alt=\"DG Pic\" class=\"card-img-top rounded-circle border border-5 border-white center-img shadow\" src=\"/index.aspx?id=img_pune-center\"/>",
+                    " ",
+                    "<h6 class=\"pt-2\"> Pune</h6>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=SL",
+                "type": "internal",
+                "contents": [
+                    "<img alt=\"DG Pic\" class=\"card-img-top rounded-circle border border-5 border-white center-img shadow\" src=\"/index.aspx?id=img_silchar-center\"/>",
+                    " ",
+                    "<h6 class=\"pt-2\"> Silchar</h6>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=TVM",
+                "type": "internal",
+                "contents": [
+                    "<img alt=\"DG Pic\" class=\"card-img-top rounded-circle border border-5 border-white center-img shadow\" src=\"/index.aspx?id=img_tvm-center\"/>",
+                    " ",
+                    "<h6 class=\"pt-2\"> Thiruvananthapuram</h6>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=sponsored_projects",
+                "type": "internal",
+                "contents": [
+                    "Sponsored Projects"
+                ],
+                "inner": null
+            },
+            {
+                "link": "http://ildc.in",
+                "type": "external",
+                "contents": [
+                    "Download software tools & fonts for 22 Indian languages"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=north_east_initiatives",
+                "type": "internal",
+                "contents": [
+                    "North East Initiatives"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=cdac_portals",
+                "type": "internal",
+                "contents": [
+                    "Portals"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=patents",
+                "type": "internal",
+                "contents": [
+                    "Patents"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=download",
+                "type": "internal",
+                "contents": [
+                    "Download"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=dl_mlingual_tools",
+                "type": "internal",
+                "contents": [
+                    "Multilingual Tools"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=cs_eps_freedownloads_",
+                "type": "internal",
+                "contents": [
+                    "End Point Security Solutions"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=article",
+                "type": "internal",
+                "contents": [
+                    "Articles"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=AnnualReports",
+                "type": "internal",
+                "contents": [
+                    "Annual Reports"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=blog",
+                "type": "internal",
+                "contents": [
+                    "Blog"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://www.meity.gov.in/",
+                "type": "external",
+                "contents": [
+                    "MeitY"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=rti",
+                "type": "internal",
+                "contents": [
+                    "RTI"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=pdf_IoA_Collaboration_Innovation_V10",
+                "type": "internal",
+                "contents": [
+                    "Intent of Association for Collaborative Innovation"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=pdf_GPAI-Summit-Research-Symposium-Call-Abstracts-",
+                "type": "internal",
+                "contents": [
+                    "GPAI Summit 2023: Call for Abstracts for Research Symposium"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=release",
+                "type": "internal",
+                "contents": [
+                    "Press Release"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=innews",
+                "type": "internal",
+                "contents": [
+                    "News"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=pk_pr_prs_rl250",
+                "type": "internal",
+                "contents": [
+                    "Visiting Finland Minister of Economic Affairs Mika Lintila meets Union Minister of State (Independent Charge) Science and Technology, Dr Jitendra Singh"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=pk_itn_spot1348",
+                "type": "internal",
+                "contents": [
+                    "From scans to facial recognition, how AI tech is securing new Parliament building"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=pk_itn_spot1347",
+                "type": "internal",
+                "contents": [
+                    "Face recognition tech for MPs at new Parliament"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=edu_acts_PGDiplomaAdmission",
+                "type": "internal",
+                "contents": [
+                    "PG Diploma Next Batch Commencement: 8 September 2023"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=edu_acts_PGDiplomaAdmission",
+                "type": "internal",
+                "contents": [
+                    "Dates for CCAT Application: 6 June 2023 to 5 July 2023 "
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=edu_acts_PGDiplomaAdmission",
+                "type": "internal",
+                "contents": [
+                    "Dates of CCAT at Test Centres: 15 and 16 July 2023 "
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=ActsPlacement",
+                "type": "internal",
+                "contents": [
+                    "Excellent Placements for C-DAC's PG Diploma Students"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=tenders_eoi",
+                "type": "internal",
+                "contents": [
+                    "Expression of Interest (EoI)"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=tenders_vlceoi",
+                "type": "internal",
+                "contents": [
+                    "Expression of Interest (EoI) for ToT of Visible Light Communication based LED Lighting Solutions"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://www.facebook.com/CDACINDIA",
+                "type": "external",
+                "contents": [
+                    "Centre for Development of Advanced Computing : C-DAC"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://twitter.com/cdacindia?ref_src=twsrc%5Etfw",
+                "type": "external",
+                "contents": [
+                    "Tweets by cdacindia"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://www.facebook.com/CDACINDIA",
+                "type": "external",
+                "contents": [
+                    "<img alt=\"Facebook\" class=\"img-fluid\" src=\"/index.aspx?id=img_ico_fb\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://twitter.com/cdacindia",
+                "type": "external",
+                "contents": [
+                    "<img alt=\"twitter\" class=\"img-fluid\" src=\"/index.aspx?id=img_ico_twitter\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://in.linkedin.com/company/cdac",
+                "type": "external",
+                "contents": [
+                    "<img alt=\"linkdin\" class=\"img-fluid\" src=\"/index.aspx?id=img_ico_linkdin\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://www.kooapp.com/profile/cdacindia",
+                "type": "external",
+                "contents": [
+                    "<img alt=\"koo\" class=\"img-fluid\" src=\"/index.aspx?id=img_ico_koo\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://www.youtube.com/c/CDACOfficial",
+                "type": "external",
+                "contents": [
+                    "<img alt=\"YouTube\" class=\"img-fluid\" src=\"/index.aspx?id=img_ico_youtube\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://www.meity.gov.in/",
+                "type": "external",
+                "contents": [
+                    "<img alt=\"MeitY Logo\" class=\"img-fluid\" src=\"/index.aspx?id=img_loin-head\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://amritmahotsav.nic.in/",
+                "type": "external",
+                "contents": [
+                    "<img alt=\"azadi logo\" class=\"img-fluid\" src=\"img/azadi.png\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://www.g20.org/",
+                "type": "external",
+                "contents": [
+                    "<img alt=\"G20\" class=\"img-fluid\" src=\"/index.aspx?id=img_g20\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://www.bhimupi.org.in/",
+                "type": "external",
+                "contents": [
+                    "<img alt=\"bhimapp\" class=\"img-fluid\" src=\"img/bhim_upi.png\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://digitalindia.gov.in/",
+                "type": "external",
+                "contents": [
+                    "<img alt=\"Digital India\" class=\"img-fluid\" src=\"img/digitalindia.png\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://www.india.gov.in/",
+                "type": "external",
+                "contents": [
+                    "<img alt=\"india.gov.in\" class=\"img-fluid\" src=\"img/india.gov.png\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://swachhbharatmission.gov.in/",
+                "type": "external",
+                "contents": [
+                    "<img alt=\"swachh bharat\" class=\"img-fluid\" src=\"img/swachh_bharat.png\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=BL",
+                "type": "internal",
+                "contents": [
+                    "Bengaluru "
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=CH",
+                "type": "internal",
+                "contents": [
+                    "Chennai "
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=DL",
+                "type": "internal",
+                "contents": [
+                    "Delhi"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=HY",
+                "type": "internal",
+                "contents": [
+                    "Hyderabad "
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=KL",
+                "type": "internal",
+                "contents": [
+                    "Kolkata"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=ML",
+                "type": "internal",
+                "contents": [
+                    "Mohali"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=MB",
+                "type": "internal",
+                "contents": [
+                    "Mumbai"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=ND",
+                "type": "internal",
+                "contents": [
+                    "Noida "
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=PT",
+                "type": "internal",
+                "contents": [
+                    "Patna "
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=PN",
+                "type": "internal",
+                "contents": [
+                    "Pune "
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=SL",
+                "type": "internal",
+                "contents": [
+                    "Silchar"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=TVM",
+                "type": "internal",
+                "contents": [
+                    "Thiruvananthapuram"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=about",
+                "type": "internal",
+                "contents": [
+                    "About Us"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=products_services",
+                "type": "internal",
+                "contents": [
+                    "Products & Services"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=research",
+                "type": "internal",
+                "contents": [
+                    "R&D "
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=career",
+                "type": "internal",
+                "contents": [
+                    "Careers"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=tenders",
+                "type": "internal",
+                "contents": [
+                    "Tenders"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=news",
+                "type": "internal",
+                "contents": [
+                    "Press Kit"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=audiov",
+                "type": "internal",
+                "contents": [
+                    "Video Gallery"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=events",
+                "type": "internal",
+                "contents": [
+                    "Events"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=Awards",
+                "type": "internal",
+                "contents": [
+                    "Awards"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=download",
+                "type": "internal",
+                "contents": [
+                    "Downloads"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=cdac_achievements",
+                "type": "internal",
+                "contents": [
+                    "Achievements"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=alliance",
+                "type": "internal",
+                "contents": [
+                    "Alliance"
+                ],
+                "inner": null
+            },
+            {
+                "link": "https://goo.gl/maps/Ee1Yg7QBgMSqbTat9",
+                "type": "external",
+                "contents": [
+                    "<img class=\"img-fluid border shadow\" src=\"/img/map.jpg\"/>"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=help",
+                "type": "internal",
+                "contents": [
+                    "Help"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=website_policies",
+                "type": "internal",
+                "contents": [
+                    "Website Policies"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=legal_notice#2",
+                "type": "internal",
+                "contents": [
+                    "Copyright Policy"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=terms_conditions",
+                "type": "internal",
+                "contents": [
+                    "Terms & Conditions"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=reach_us",
+                "type": "internal",
+                "contents": [
+                    "Reach Us"
+                ],
+                "inner": null
+            },
+            {
+                "link": "#",
+                "type": "external",
+                "contents": [
+                    "<i class=\"fa fa-angle-up px-2\"></i>",
+                    " Top"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=sector\u00a7or_name=Education and Skill Building",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-school px-1\"></i>",
+                    " Education and Skill Building"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=sector\u00a7or_name=Government and Public Sector",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-building-flag px-1\"></i>",
+                    " Government and Public Sector"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=sector\u00a7or_name=Industry (including Startups/MSME)",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-industry px-1\"></i>",
+                    " Industry (including Startups/MSME)"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=sector\u00a7or_name=Law Enforcement Agencies",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-gavel px-1\"></i>",
+                    " Law Enforcement Agencies"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=sector\u00a7or_name=Smart Cities and Transportation",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-house-signal px-1\"></i>",
+                    " Smart Cities and Transportation"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=sector\u00a7or_name=Broadcast and Communications",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-tower-broadcast px-1\"></i>",
+                    " Broadcast and Communications"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=sector\u00a7or_name=Financial Services",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-sharp fa-solid fa-coins px-1\"></i>",
+                    " Financial Services"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=sector\u00a7or_name=Healthcare and Life Sciences",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-suitcase-medical px-1\"></i>",
+                    " Healthcare and Life Sciences"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=sector\u00a7or_name=Defense and Strategic",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-shield-halved px-1\"></i>",
+                    "  Defense and Strategic"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=profile&profile_name=Students",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-graduation-cap px-1\"></i>",
+                    " Students"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=profile&profile_name=Academia and Researcher",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-book-open-reader px-1\"></i>",
+                    " Academia and Researcher"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=profile&profile_name=Entrepreneurs",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-briefcase px-1\"></i>",
+                    " Entrepreneurs"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=profile&profile_name=Solution Aggregators / Integrators",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-gears px-1\"></i>",
+                    " Solution Aggregators / Integrators"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=profile&profile_name=International Audience",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-people-group px-1\"></i>",
+                    " International Audience"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=profile&profile_name=Press",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-newspaper px-1\"></i>",
+                    " Press"
+                ],
+                "inner": null
+            },
+            {
+                "link": "/index.aspx?id=profile&profile_name=Career Seekers",
+                "type": "internal",
+                "contents": [
+                    "<i class=\"fa-solid fa-user-tie px-1\"></i>",
+                    " Career Seekers"
+                ],
+                "inner": null
+            }
+        ]
+    }
+}

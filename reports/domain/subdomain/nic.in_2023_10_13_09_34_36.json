@@ -1,0 +1,6380 @@
+{
+    "admissions.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.118.250"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "aecsrbt2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.179.86"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "ai.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.190.65"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "ap.nic.in": {
+        "domain": "s30189caa552598b845b29b17a427692d1.s3waas.gov.in",
+        "alias": [
+            "ap.nic.in"
+        ],
+        "ipaddr": [
+            "103.195.214.27"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "adv.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.246.135.208"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "agile.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.194.161.28"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "backup.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.28.12"
+        ],
+        "code": 200,
+        "server": "Apache/2.4.37 (Oracle Linux)"
+    },
+    "agnet2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.41.228"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "alpha.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.25"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "annualreport.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.157.114"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "antispam.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.26"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "antispam1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.27"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "antispam2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.27"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "antivirus.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.248.4.30"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "api.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.194.161.187"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "apps.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.129.9"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "asi.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.65.12"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "beta.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.59.208"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "bharatvc-mcu-01.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.174.12"
+        ],
+        "code": 200,
+        "server": "GOI"
+    },
+    "bharatvc-mcu-02.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.174.18"
+        ],
+        "code": 200,
+        "server": "GOI"
+    },
+    "bharatvc-mcu-04.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.174.13"
+        ],
+        "code": 200,
+        "server": "GOI"
+    },
+    "bharatvc-mcu-14.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.174.29"
+        ],
+        "code": 200,
+        "server": "GOI"
+    },
+    "bharatvc-mcu-06.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.174.28"
+        ],
+        "code": 200,
+        "server": "GOI"
+    },
+    "bharatvc-mcu-10.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.174.24"
+        ],
+        "code": 200,
+        "server": "GOI"
+    },
+    "bharatvc-mcu-03.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.174.17"
+        ],
+        "code": 200,
+        "server": "GOI"
+    },
+    "bharatvc-mcu-16.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.174.16"
+        ],
+        "code": 200,
+        "server": "GOI"
+    },
+    "bharatvc-mcu-12.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.174.30"
+        ],
+        "code": 200,
+        "server": "GOI"
+    },
+    "bharatvc-mcu-08.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.174.22"
+        ],
+        "code": 200,
+        "server": "GOI"
+    },
+    "bharatvc-mcu-07.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.174.21"
+        ],
+        "code": 200,
+        "server": "GOI"
+    },
+    "bharatvc-mcu-19.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.174.33"
+        ],
+        "code": 200,
+        "server": "GOI"
+    },
+    "bharatvc-mcu-13.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.174.27"
+        ],
+        "code": 200,
+        "server": "GOI"
+    },
+    "bharatvc-mcu-05.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.174.26"
+        ],
+        "code": 200,
+        "server": "GOI"
+    },
+    "bharatvc-mcu-11.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.174.25"
+        ],
+        "code": 200,
+        "server": "GOI"
+    },
+    "bharatvc-mcu-18.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.174.35"
+        ],
+        "code": 200,
+        "server": "GOI"
+    },
+    "bharatvc-mcu-17.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.174.32"
+        ],
+        "code": 200,
+        "server": "GOI"
+    },
+    "bharatvc-mcu-15.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.174.8"
+        ],
+        "code": 200,
+        "server": "GOI"
+    },
+    "bharatvc-mcu-09.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.174.23"
+        ],
+        "code": 200,
+        "server": "GOI"
+    },
+    "bharatvc-mcu-20.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.174.34"
+        ],
+        "code": 200,
+        "server": "GOI"
+    },
+    "bharatvc-mcu-21.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.174.36"
+        ],
+        "code": 200,
+        "server": "GOI"
+    },
+    "bharatvc-mcu-22.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.174.37"
+        ],
+        "code": 200,
+        "server": "GOI"
+    },
+    "bharatvc-mcu-23.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.174.38"
+        ],
+        "code": 200,
+        "server": "GOI"
+    },
+    "bharatvc-mcu-24.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.174.39"
+        ],
+        "code": 200,
+        "server": "GOI"
+    },
+    "attendance.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.248.81.190"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "bharatvc-mcu-26.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.174.41"
+        ],
+        "code": 200,
+        "server": "GOI"
+    },
+    "bharatvc-mcu-27.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.174.42"
+        ],
+        "code": 200,
+        "server": "GOI"
+    },
+    "bharatvc-stun1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.174.14"
+        ],
+        "code": 403,
+        "server": "nginx/1.14.0 (Ubuntu)"
+    },
+    "bharatvc-mcu-28.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.174.43"
+        ],
+        "code": 200,
+        "server": "GOI"
+    },
+    "bharatvc-stun2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.174.11"
+        ],
+        "code": 403,
+        "server": "nginx/1.14.0 (Ubuntu)"
+    },
+    "auth.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.53"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "boc.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.117.91"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "banking.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.25"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "cdn.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.165.77"
+        ],
+        "code": 200,
+        "server": "Microsoft-IIS/8.5"
+    },
+    "cem.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.55.25"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "cg.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.150.66"
+        ],
+        "code": 200,
+        "server": "nginx"
+    },
+    "cec.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.128.18"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "bharatvc-mcu-25.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.174.40"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "cabin18.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.9.71"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "cad.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.229.15"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "cag-ise02.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.197.232.75"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "cag-ise01.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.197.232.74"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ccc.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.49.2"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "comet.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.178.249"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "cea.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.54.130"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "chennai.nic.in": {
+        "domain": "s313f3cf8c531952d72e5847c4183e6910.s3waas.gov.in",
+        "alias": [
+            "chennai.nic.in"
+        ],
+        "ipaddr": [
+            "164.100.225.207"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "chem.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.21.81.15"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "cms.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.198.93"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "cloud.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.248.65.175"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "cup.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.160.98"
+        ],
+        "code": 404,
+        "server": "Apache"
+    },
+    "csl.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.77.31"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "dashboard.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.68.221"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "ddc.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.228.80"
+        ],
+        "code": 200,
+        "server": "GoIServer"
+    },
+    "del.nic.in": {
+        "domain": "s354ff9e9e3a2ec0300d4ce11261f5169f.s3waas.gov.in",
+        "alias": [
+            "del.nic.in"
+        ],
+        "ipaddr": [
+            "103.195.214.59"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "commerce.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.117.46"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "coop.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.25"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "dod.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.68.240"
+        ],
+        "code": 200,
+        "server": "DOD"
+    },
+    "crl.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.246.57.100"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "dr-msgfe1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.41"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "csg.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.17.252"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "dfs.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.117.138"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "dfsvr2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.169.72"
+        ],
+        "code": 404,
+        "server": "Apache"
+    },
+    "dummy.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.178"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "easy.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.213.128"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "cyber.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.19.3"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "eg4.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.68.245"
+        ],
+        "code": 200,
+        "server": "Microsoft-IIS/10.0"
+    },
+    "eforms.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.13.251"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "dtc.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.83.199"
+        ],
+        "code": 200,
+        "server": "Website-GNCTD"
+    },
+    "database.nic.in": {
+        "domain": "Yojanaproxy.nic.in",
+        "alias": [
+            "database.nic.in"
+        ],
+        "ipaddr": [
+            "164.100.44.150"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "db.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.3.214"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "dns.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "1.10.10.10",
+            "36.50.50.50"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "dcs.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.38.45"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "eformnfra2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.77.173"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "eformnfra1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.166.90"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "email.nic.in": {
+        "domain": "zs-in1-lczhost.zohohost.in",
+        "alias": [
+            "email.nic.in",
+            "mail.cs.zohohost.in"
+        ],
+        "ipaddr": [
+            "169.148.148.76"
+        ],
+        "code": 200,
+        "server": "ZGS"
+    },
+    "enews.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.140.146"
+        ],
+        "code": 200,
+        "server": "Microsoft-IIS/8.5"
+    },
+    "eol.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.69.33"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "digital.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.247.16.103"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "epos.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.65.97"
+        ],
+        "code": 200,
+        "server": "SuperSecureServer"
+    },
+    "dippserver2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.41.34"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "dk.nic.in": {
+        "domain": "s33a835d3215755c435ef4fe9965a3f2a0.s3waas.gov.in",
+        "alias": [
+            "dk.nic.in"
+        ],
+        "ipaddr": [
+            "164.100.226.134"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "dop.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.161.103"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "drishti-3.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.1.223.50"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "e-learning.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.28.114"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ecom.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.84"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "eoffice.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.78.155"
+        ],
+        "code": 200,
+        "server": "nginx"
+    },
+    "education.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.129.122"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ehr.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.112.21"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "env.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.194.3"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "epm.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.15"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "epp.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.197.232.69"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "esadelsp07.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.184",
+            "164.100.14.188",
+            "164.100.14.183",
+            "164.100.14.187",
+            "164.100.14.182",
+            "164.100.14.186",
+            "164.100.14.181",
+            "164.100.14.55",
+            "164.100.14.185",
+            "164.100.14.189",
+            "164.100.14.180"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "esahydvagw04.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.159",
+            "164.100.2.158",
+            "164.100.2.156",
+            "164.100.2.157",
+            "164.100.2.160",
+            "164.100.2.161",
+            "164.100.2.108"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "esahydvagw01.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.171",
+            "164.100.2.170",
+            "164.100.2.173",
+            "164.100.2.172",
+            "164.100.2.175",
+            "164.100.2.174",
+            "164.100.2.105"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "esahyd04.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.70",
+            "164.100.2.73",
+            "164.100.2.77",
+            "164.100.2.37",
+            "164.100.2.72",
+            "164.100.2.74",
+            "164.100.2.75",
+            "164.100.2.71",
+            "164.100.2.79",
+            "164.100.2.76",
+            "164.100.2.78"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "esahydvagw02.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.106",
+            "164.100.2.176",
+            "164.100.2.180",
+            "164.100.2.177",
+            "164.100.2.179",
+            "164.100.2.178"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "esahydvagw07.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "192.168.1.162",
+            "164.100.2.114"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "esahydvagw03.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.107",
+            "164.100.2.155",
+            "164.100.2.152",
+            "164.100.2.154",
+            "164.100.2.153",
+            "164.100.2.151"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "esahydgwva06.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.66"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "esahydvagw06.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "192.168.1.160"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "esahydvagwpub05.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.109"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "esahydvagw11.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.143"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "esahydvagw08.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.115",
+            "192.168.1.164"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "esahydvagw10.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.142"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "esahydvagw15.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.147"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "esahydvagw09.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.141"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ewaybill2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.80.111"
+        ],
+        "code": 200,
+        "server": ", "
+    },
+    "ewbeinv-stg1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.69.130"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ewaybill1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.80.181"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "excisesurat1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.185.40"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ewbeinv-stg2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.69.129"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "geoportal.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.68.216"
+        ],
+        "code": 503,
+        "server": "Microsoft-HTTPAPI/2.0"
+    },
+    "geo.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.117.148"
+        ],
+        "code": 200,
+        "server": "Microsoft-IIS/8.5"
+    },
+    "finance.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.22.80.41"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "fire.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.9.31"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "gsa.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.60.77"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "hrymeet1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.200.29"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "gitlab.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.246.61.3"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "goat.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.242.131"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ids.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.228.51"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "ifs.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.68.161"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "help.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.12.196"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "home.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.129.56"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "hq-vr4.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.22.18"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "hp.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.150.194"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "hq-vrecplay4.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.22.3"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "informatics.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.59.36"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "hyderabad.nic.in": {
+        "domain": "s36c524f9d5d7027454a783c841250ba71.s3waas.gov.in",
+        "alias": [
+            "hyderabad.nic.in"
+        ],
+        "ipaddr": [
+            "164.100.225.120"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ibm.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.58.124"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "hrymeet2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.200.30"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "icar1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.110.130"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "irc.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.158.50"
+        ],
+        "code": 404,
+        "server": "Microsoft-HTTPAPI/2.0"
+    },
+    "ics.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.1.11.225"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ivfrt1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.28.8"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ivfrt2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.12.70"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "jk.nic.in": {
+        "domain": "s3819e3d6c1381eac87c17617e5165f38c.s3waas.gov.in",
+        "alias": [
+            "jk.nic.in"
+        ],
+        "ipaddr": [
+            "103.195.214.57"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "jmeet1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.200.39"
+        ],
+        "code": 200,
+        "server": "Apache/2.4.49 (Ubuntu)"
+    },
+    "iie.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.156.103"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "hub.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.25"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "indiaat75.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.128.240"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ipam.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.197.232.61"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ipa.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.68.26"
+        ],
+        "code": 200,
+        "server": "Microsoft-IIS/8.5"
+    },
+    "library.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.60.32"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "jenkins.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.194.161.27"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "jitsivc1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.22.24"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "jhr3.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.150.5"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "jmeet3.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.114.69"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "jmeet4.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.114.70"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "kawach-1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.1.223.51"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "korea.nic.in": {
+        "domain": "korea.gov.in",
+        "alias": [
+            "korea.nic.in"
+        ],
+        "ipaddr": [
+            "164.100.226.125"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "mail.nic.in": {
+        "domain": "nictestappgw.centralindia.cloudapp.azure.com",
+        "alias": [
+            "mail.nic.in"
+        ],
+        "ipaddr": [
+            "20.207.197.225"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "mcc.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.51.2"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "ldap2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.17.60"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "mdm.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.68.163"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "linux.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.16"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "mii.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.123.21"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "lib.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.28.74"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "mnregaweb2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.129.4"
+        ],
+        "code": 403,
+        "server": "Microsoft-IIS/8.5"
+    },
+    "mnregaweb3.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.129.5"
+        ],
+        "code": 403,
+        "server": "Microsoft-IIS/8.5"
+    },
+    "mnregaweb7.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.69.251"
+        ],
+        "code": 200,
+        "server": "Microsoft-IIS/10.0"
+    },
+    "mnregaweb5.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.129.7"
+        ],
+        "code": 403,
+        "server": "Microsoft-IIS/8.5"
+    },
+    "mnregaweb4.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.129.6"
+        ],
+        "code": 403,
+        "server": "Microsoft-IIS/8.5"
+    },
+    "mailadmin.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.22"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "mod.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.161.23"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "mailgw1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.252",
+            "164.100.14.124",
+            "164.100.14.60",
+            "164.100.10.19"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "mailgw.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.236",
+            "164.100.2.114",
+            "164.100.2.233",
+            "164.100.2.66",
+            "164.100.2.231",
+            "164.100.2.146",
+            "164.100.2.115",
+            "164.100.14.60",
+            "164.100.2.238",
+            "164.100.2.145",
+            "164.100.10.19",
+            "164.100.2.237",
+            "164.100.2.109",
+            "164.100.14.124",
+            "164.100.2.144",
+            "164.100.2.232",
+            "164.100.14.252"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "mpa.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.229.48"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "mcp.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.160.33.53"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "media.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.1.46.220"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "media2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.49.7"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "mes2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.3.229"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "micro.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.17.32"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "nagaland2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.149.141"
+        ],
+        "code": 200,
+        "server": "nginx"
+    },
+    "mobileapps.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.129.221"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "mon.nic.in": {
+        "domain": "s368264bdb65b97eeae6788aa3348e553c.s3waas.gov.in",
+        "alias": [
+            "mon.nic.in"
+        ],
+        "ipaddr": [
+            "164.100.226.169"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "nregade1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.230.129"
+        ],
+        "code": 200,
+        "server": "Microsoft-IIS/10.0"
+    },
+    "mes.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.3.215"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "nregade2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.230.238"
+        ],
+        "code": 200,
+        "server": "Microsoft-IIS/10.0"
+    },
+    "nregarep2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.230.244"
+        ],
+        "code": 200,
+        "server": "Microsoft-IIS/8.0"
+    },
+    "nregarep1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.230.241"
+        ],
+        "code": 200,
+        "server": "Microsoft-IIS/10.0"
+    },
+    "nregade3.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.230.239"
+        ],
+        "code": 200,
+        "server": "Microsoft-IIS/10.0"
+    },
+    "nregarep3.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.230.245"
+        ],
+        "code": 200,
+        "server": "Microsoft-IIS/10.0"
+    },
+    "nregade4.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.230.240"
+        ],
+        "code": 403,
+        "server": "Microsoft-IIS/10.0"
+    },
+    "nadrsgis1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.74.217"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "nagaland1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.149.140"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "national.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.110.122"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "nb.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.25"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "netmon.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.246.70.164"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "netra-11.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.1.223.34"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "netra-15.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.1.223.34"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "netra-12.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.154.31.85"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "news.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.143"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "nfsen.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.1.16.20"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ngs1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.3.247"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "nicca2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.20.228",
+            "164.100.20.229",
+            "164.100.20.230"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "nice.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.104.102"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ntp.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.255.122"
+        ],
+        "code": 401,
+        "server": "Apache/2.2.15 (CentOS)"
+    },
+    "node1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.9.161"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "node2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.9.162"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "novell.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.232"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "nregalndc3.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.72.202"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "oic.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.185.175"
+        ],
+        "code": 200,
+        "server": "Microsoft-IIS/8.5"
+    },
+    "nregasp2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.128.68"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "nregasp3.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.128.69"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ns1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.11.11"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ns2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.105.30"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ns4.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.11.2"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ns6.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.4.2"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ns7.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.4.10"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "pgs.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.187.20"
+        ],
+        "code": 404,
+        "server": "Custom"
+    },
+    "pci.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.187.188"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "post.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.69.121"
+        ],
+        "code": 200,
+        "server": "Microsoft-IIS/10.0"
+    },
+    "ori1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.140.3"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "pride.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.60.131"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "pao2000.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.117.129"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ossc1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.140.61"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "py.nic.in": {
+        "domain": "s30070d23b06b1486a538c0eaa45dd167a.s3waas.gov.in",
+        "alias": [
+            "py.nic.in"
+        ],
+        "ipaddr": [
+            "103.195.214.60"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "pec.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.248.87.36"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ras.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.117.104"
+        ],
+        "code": 200,
+        "server": "SERVER"
+    },
+    "rb.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.68.60"
+        ],
+        "code": 200,
+        "server": "Microsoft-IIS/10.0"
+    },
+    "personnel.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.247.16.100"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "pharma.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.21.81.4"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "recruitment.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.163.180"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "profile.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.56"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "pm.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.154.12"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "pms.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.153.133.14"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "portal.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.1.17.48"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "portal1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.1.17.248"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "power.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.9.7"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "prism.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.252.131"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relay.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.95"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout101.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.206"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relay1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.17.17"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout10.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.106"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayinsp04.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.55"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout102.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.207"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayinsp01.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.60"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout109.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.215"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayinsp03.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.59"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout108.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.214"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout105.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.210"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout107.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.213"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout103.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.208"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout100.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.205"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout11.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.107"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout104.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.209"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout106.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.212"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout110.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.216"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.97"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout12.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.108"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout13.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.109"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout14.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.110"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout15.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.111"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout17.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.113"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout16.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.112"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout18.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.114"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout19.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.115"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.98"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout21.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.117"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout22.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.118"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout25.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.121"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout26.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.122"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout23.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.119"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout24.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.120"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout29.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.125"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout27.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.123"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout3.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.99"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout30.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.126"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout4.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.100"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout33.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.129"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout31.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.127"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout37.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.163"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout35.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.161"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout38.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.164"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout36.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.162"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout34.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.130"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout41.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.167"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout45.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.171"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout39.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.165"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout40.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.166"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout46.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.172"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout42.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.168"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout5.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.101"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout47.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.173"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout49.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.175"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout44.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.170"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout43.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.169"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout50.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.176"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout51.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.177"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout32.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.128"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout54.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.182"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout52.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.180"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout53.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.181"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout58.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.186"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout56.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.184"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout57.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.185"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout55.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.183"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout59.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.187"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout6.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.102"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout60.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.188"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout61.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.189"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout62.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.62"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout64.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.64"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout65.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.65"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout63.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.63"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout67.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.67"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout68.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.68"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout69.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.69"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout70.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.70"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout71.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.221"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout7.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.103"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout72.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.222"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout75.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.225"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout77.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.227"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout76.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.226"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout74.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.224"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout79.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.229"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout78.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.228"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout66.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.66"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "reports.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.158.182"
+        ],
+        "code": 200,
+        "server": "Microsoft-IIS/8.0"
+    },
+    "reserve1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.213.101"
+        ],
+        "code": 200,
+        "server": "Microsoft-IIS/10.0"
+    },
+    "results.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.118.21"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "relayout8.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.104"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout80.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.230"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout81.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.231"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout82.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.232"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout83.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.233"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout87.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.237"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout86.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.236"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout88.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.238"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout85.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.235"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout89.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.239"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "rmc.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.83.184"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "relayout9.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.105"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout90.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.240"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout91.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.83"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout94.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.93"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout92.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.84"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout93.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.92"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout96.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.199"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "rs.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.28.22"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout98.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.202"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout95.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.198"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout99.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.204"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ren.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.18"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "rural.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.59.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "reserve.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.246.90.132"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "sci.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.229.147"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "sconnect7.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.28.2"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relayout97.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.200"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "sconnect1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.12.68"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "rsdebate1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.9.141"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "rsgis1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.129.147"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "rsdebate2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.9.141"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "secc2011.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.128.114"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "secure.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.228.106"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "sdp.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.167.59"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "sconnect2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.28.19"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "servicedesk.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.119.170"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "saas.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.74.220"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "samba.nic.in": {
+        "domain": "samba.gov.in",
+        "alias": [
+            "samba.nic.in"
+        ],
+        "ipaddr": [
+            "164.100.224.126"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "sail.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.215.49"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "sip.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.78.189"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "sb.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.25"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "sb1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.16"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "schedule.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.1.180.207"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "scpc2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.193.74"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "scpc3.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.3.246",
+            "164.100.193.86"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "scpc1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.193.78"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "scanner.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.17.15",
+            "10.1.8.50"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "search1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.56.219"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "security.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.247.116.78"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "sfs.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.197.232.60"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "shipping.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.154.74"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "sif.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.187.132"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "sip1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.1.180.9"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "slm.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.1.17.40"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smsgw.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.9"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "sms.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.1.17.16"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout11.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.11"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout13.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.13"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout16.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.16"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout22.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.22"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout12.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.12"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout17.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.17"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout23.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.23"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout15.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.15"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout18.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.18"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout20.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.20"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout14.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.14"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout19.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.19"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout21.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.21"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout25.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.25"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout26.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.26"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout27.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.27"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout24.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.24"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout28.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.28"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout29.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.29"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout34.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.34"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout5.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.5"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout35.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.35"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout36.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.36"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout37.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.37"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout38.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.38"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout39.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.39"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout41.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.41"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout40.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.40"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout42.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.42"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout31.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.31"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout32.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.32"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout33.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.33"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout43.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.43"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout44.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.44"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout46.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.46"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout45.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.45"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout47.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.47"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout48.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.48"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout49.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.49"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout56.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.56"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout59.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.59"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout53.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.53"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout52.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.52"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout51.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.51"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout54.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.54"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout50.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.50"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout58.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.58"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout57.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.57"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout60.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.60"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout55.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.55"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout61.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.61"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout64.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.64"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout62.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.62"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout63.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.63"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout65.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.65"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout66.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.66"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout68.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.68"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout67.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.67"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout73.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.73"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout72.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.72"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout74.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.74"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout70.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.70"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout71.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.71"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout69.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.69"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout75.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.75"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout79.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.79"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout78.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.78"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout81.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.81"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout77.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.77"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout76.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.76"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout80.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.80"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout82.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.82"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout86.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.86"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout83.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.83"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout85.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.85"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout84.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.84"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout88.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.88"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout89.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.89"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout90.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.90"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtpout87.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.15.87"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "soc.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.248.4.19"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ssc.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.213.210"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "stagingvc1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.174.52"
+        ],
+        "code": 200,
+        "server": "GOI"
+    },
+    "steel.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.58.96"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "southasiangames2016.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.231.17"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "survey.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.129.143"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "sscold2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.213.226"
+        ],
+        "code": 200,
+        "server": "Apache/2.4.47 (Win64) OpenSSL/"
+    },
+    "spo.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.1.17.24"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "sri.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.24.198"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ssa.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.78.75"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "testing.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.77.19"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "stagingvc-mcu1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.174.51"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "thc.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.178.45"
+        ],
+        "code": 200,
+        "server": "NIC SERVER"
+    },
+    "store.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.9.143"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "tn.nic.in": {
+        "domain": "s3b5f1e8fb36cd7fbeb7988e8639ac79e9.s3waas.gov.in",
+        "alias": [
+            "tn.nic.in"
+        ],
+        "ipaddr": [
+            "103.195.214.49"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "surat.nic.in": {
+        "domain": "s38d317bdcf4aafcfc22149d77babee96d.s3waas.gov.in",
+        "alias": [
+            "surat.nic.in"
+        ],
+        "ipaddr": [
+            "164.100.226.229"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "tmc.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.178.204"
+        ],
+        "code": 200,
+        "server": "Microsoft-IIS/10.0"
+    },
+    "support.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.247.142.7"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "svn.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.248.105.200"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "switch.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.21.17"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "translation.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.252.98"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "synergy.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.87"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ts.nic.in": {
+        "domain": "s3814a9c18f5abff398787c9cfcbf3d80c.s3waas.gov.in",
+        "alias": [
+            "ts.nic.in"
+        ],
+        "ipaddr": [
+            "103.195.214.50"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "talk.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.1.16.83"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "tarang-1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.198.64.14"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "tarang-2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.154.31.3"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "tarang-5.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.198.64.11"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "tarang-4.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.154.31.2"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "uk.nic.in": {
+        "domain": "s3fb2e203234df6dee15934e448ee88971.s3waas.gov.in",
+        "alias": [
+            "uk.nic.in"
+        ],
+        "ipaddr": [
+            "103.195.214.53"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "tsc.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.60.52"
+        ],
+        "code": 200,
+        "server": "Microsoft-IIS/10.0"
+    },
+    "up.nic.in": {
+        "domain": "s3296472c9542ad4d4788d543508116cbc.s3waas.gov.in",
+        "alias": [
+            "up.nic.in"
+        ],
+        "ipaddr": [
+            "103.195.214.52"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "trade.nic.in": {
+        "domain": "markinfo.nic.in",
+        "alias": [
+            "trade.nic.in"
+        ],
+        "ipaddr": [
+            "164.100.17.21"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "text.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.194.49.52"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "tic.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.30.250"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "track.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.230.209"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "traffic.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.1.16.103"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "training.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.48.241"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ua.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.112.112"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ub.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.25"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "uidas-1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.40.128.102"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "uidas-2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.40.128.162"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu12.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.58"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu13174.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.13.174"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu13.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.59"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu13175.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.13.175"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.17.12",
+            "164.100.17.13",
+            "164.100.17.14"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu14.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.61"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu13182.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.13.182"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu13171.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.13.171"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu13172.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.13.172"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu13177.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.13.177"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu10.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.20"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu13176.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.13.176"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu13178.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.13.178"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu13183.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.13.183"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu13173.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.13.173"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu13180.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.13.180"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu13179.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.13.179"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu13185.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.13.185"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu13181.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.13.181"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu13184.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.13.184"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu13186.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.13.186"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu13187.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.13.187"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu13188.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.13.188"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu13189.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.13.189"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu13191.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.13.191"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu13192.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.13.192"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu13190.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.13.190"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu13193.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.13.193"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu13194.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.13.194"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu13195.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.13.195"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu15.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.62"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu150.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.39"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu151.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.151"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu153.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.153"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu152.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.152"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu154.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.154"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu156.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.156"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu157.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.157"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu155.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.155"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu159.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.159"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu158.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.158"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu16.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.63"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu161.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.161"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu160.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.160"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu17.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.64"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu168.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.168"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu165.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.165"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu164.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.164"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu167.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.167"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu170.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.170"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu171.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.171"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu163.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.163"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu169.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.169"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu162.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.162"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu172.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.172"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu173.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.173"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu174.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.174"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu175.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.175"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu176.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.176"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu177.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.177"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu178.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.178"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu179.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.179"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu18.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.65"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu19.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.66"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu180.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.180"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.15"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu21.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.68"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu20.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.67"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu211.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.211"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu212.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.212"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu213.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.213"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu214.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.214"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu215.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.215"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu216.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.216"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu220.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.220"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu218.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.218"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu219.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.219"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu217.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.217"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu221.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.221"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu223.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.223"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu222.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.222"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu226.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.226"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu224.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.224"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu227.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.227"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu22.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.69"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu228.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.228"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu225.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.225"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu229.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.229"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu23.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.70"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu230.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.230"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu233.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.233"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu234.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.234"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu235.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.235"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu24.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.71"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu25.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.72"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu26.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.73"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu27.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.74"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu28.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.75"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu29.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.76"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu3.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.17.12",
+            "164.100.17.13",
+            "164.100.17.14"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu30.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.77"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu31.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.78"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu32.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.79"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu4.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.25"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu5.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.27"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu55.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.89"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu54.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.88"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu52.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.86"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu60.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.60"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu67.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.67"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu6.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.16"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu65.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.65"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu63.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.63"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu68.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.68"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu66.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.66"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu69.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.69"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu232.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.232"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu231.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.231"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu64.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.64"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu53.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.14.87"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu70.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.70"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu73.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.73"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu74.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.74"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu75.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.75"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu77.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.77"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu76.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.76"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu78.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.78"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu79.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.79"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu80.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.80"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu81.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.81"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu83.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.83"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu84.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.84"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu85.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.85"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu86.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.86"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu91.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.91"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu88.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.88"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu92.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.92"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu89.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.89"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu90.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.90"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "wb.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "103.195.214.54"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "vastu72.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.72"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vastu71.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.2.71"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vidyo.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.22.5"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "webgis1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.69.42"
+        ],
+        "code": 503,
+        "server": "Microsoft-HTTPAPI/2.0"
+    },
+    "webm.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.28.42"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "webgis.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.190.161"
+        ],
+        "code": 200,
+        "server": "Microsoft-IIS/10.0"
+    },
+    "webgis2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.69.44"
+        ],
+        "code": 200,
+        "server": "Microsoft-IIS/10.0"
+    },
+    "whois.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.1.16.61"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "wms.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.49.14"
+        ],
+        "code": 200,
+        "server": "vmserver/1.9.5"
+    },
+    "vpn.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.28.9"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "www.nic.in": {
+        "domain": "a1825.dscd.akamai.net",
+        "alias": [
+            "www.nic.in",
+            "www.nic.in-v1.akamaized.net"
+        ],
+        "ipaddr": [
+            "49.44.178.218",
+            "49.44.178.211"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "vr1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.166.238"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "whm.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.77.201"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "www.jmeet1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.200.39"
+        ],
+        "code": 200,
+        "server": "Apache/2.4.49 (Ubuntu)"
+    },
+    "wan.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.17.44"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "www.ewaybill2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.80.111"
+        ],
+        "code": 200,
+        "server": ", "
+    },
+    "water.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.25"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "web.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.10.106"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "www.hrymeet1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.200.29"
+        ],
+        "code": 200,
+        "server": "nginx/1.18.0 (Ubuntu)"
+    },
+    "www.webgis1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.69.42"
+        ],
+        "code": 503,
+        "server": "Microsoft-HTTPAPI/2.0"
+    },
+    "www.eformnfra2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.77.173"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "www.ewbeinv-stg1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.69.130"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "www.nagaland2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.149.141"
+        ],
+        "code": 200,
+        "server": "nginx"
+    },
+    "webcast.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.78.43"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "webcon.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.83.203"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "webrtc2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.22.23"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "webvcsp1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.169.68"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "webvcsp2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.169.69"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "yogaregistration2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.252.98"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "www.sscold2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.213.226"
+        ],
+        "code": 200,
+        "server": "Apache/2.4.47 (Win64) OpenSSL/"
+    },
+    "www.hrymeet2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.200.30"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "www.nagaland1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.149.140"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "www.jmeet3.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.114.69"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "www.jmeet4.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.114.70"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "www.ewbeinv-stg2.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.69.129"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "www.ewaybill1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.80.181"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "www.ossc1.nic.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "164.100.140.61"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "_meta": {
+        "name": "knockpy",
+        "version": "6.1.0",
+        "time_start": 1697189441.1689692,
+        "time_end": 1697189676.504074,
+        "domain": "nic.in",
+        "wordlist": 11246
+    }
+}

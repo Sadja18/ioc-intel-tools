@@ -1,0 +1,39 @@
+{
+    "Expiry Day": 67,
+    "OCSP": [
+        "http://ocsp.sectigo.com"
+    ],
+    "businessCategory": "Government Entity",
+    "caIssuers": [
+        "http://crt.sectigo.com/SectigoRSAExtendedValidationSecureServerCA.crt"
+    ],
+    "commonName": "www.cdac.in",
+    "countryName": "IN",
+    "crlDistributionPoints": [
+        "http://crl.sectigo.com/SectigoRSAExtendedValidationSecureServerCA.crl"
+    ],
+    "issuer": {
+        "commonName": "Sectigo RSA Extended Validation Secure Server CA",
+        "countryName": "GB",
+        "localityName": "Salford",
+        "organizationName": "Sectigo Limited",
+        "stateOrProvinceName": "Greater Manchester"
+    },
+    "jurisdictionCountryName": "IN",
+    "notAfter": "Dec 23 23:59:59 2023 GMT",
+    "notBefore": "Dec  8 00:00:00 2022 GMT",
+    "organizationName": "Centre for Development of Advanced Computing (C-DAC)",
+    "serialNumber": "60E6B652DE2DC928B00178BB7FF13BA7",
+    "stateOrProvinceName": "Maharashtra",
+    "subjectAltName": [
+        [
+            "DNS",
+            "www.cdac.in"
+        ],
+        [
+            "DNS",
+            "cdac.in"
+        ]
+    ],
+    "version": 3
+}

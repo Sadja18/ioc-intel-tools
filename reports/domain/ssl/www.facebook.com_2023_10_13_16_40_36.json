@@ -1,0 +1,74 @@
+{
+    "Expiry Day": 7,
+    "OCSP": [
+        "http://ocsp.digicert.com"
+    ],
+    "caIssuers": [
+        "http://cacerts.digicert.com/DigiCertSHA2HighAssuranceServerCA.crt"
+    ],
+    "commonName": "*.facebook.com",
+    "countryName": "US",
+    "crlDistributionPoints": [
+        "http://crl3.digicert.com/sha2-ha-server-g6.crl",
+        "http://crl4.digicert.com/sha2-ha-server-g6.crl"
+    ],
+    "issuer": {
+        "commonName": "DigiCert SHA2 High Assurance Server CA",
+        "countryName": "US",
+        "organizationName": "DigiCert Inc",
+        "organizationalUnitName": "www.digicert.com"
+    },
+    "localityName": "Menlo Park",
+    "notAfter": "Oct 20 23:59:59 2023 GMT",
+    "notBefore": "Jul 22 00:00:00 2023 GMT",
+    "organizationName": "Meta Platforms, Inc.",
+    "serialNumber": "07C0A3DFD4DF2DFC281C53D1F40D6370",
+    "stateOrProvinceName": "California",
+    "subjectAltName": [
+        [
+            "DNS",
+            "*.facebook.com"
+        ],
+        [
+            "DNS",
+            "*.facebook.net"
+        ],
+        [
+            "DNS",
+            "*.fbcdn.net"
+        ],
+        [
+            "DNS",
+            "*.fbsbx.com"
+        ],
+        [
+            "DNS",
+            "*.m.facebook.com"
+        ],
+        [
+            "DNS",
+            "*.messenger.com"
+        ],
+        [
+            "DNS",
+            "*.xx.fbcdn.net"
+        ],
+        [
+            "DNS",
+            "*.xy.fbcdn.net"
+        ],
+        [
+            "DNS",
+            "*.xz.fbcdn.net"
+        ],
+        [
+            "DNS",
+            "facebook.com"
+        ],
+        [
+            "DNS",
+            "messenger.com"
+        ]
+    ],
+    "version": 3
+}

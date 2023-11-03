@@ -1,0 +1,40 @@
+{
+    "Expiry Day": 58,
+    "OCSP": [
+        "http://ocsp.pki.goog/gts1c3"
+    ],
+    "caIssuers": [
+        "http://pki.goog/repo/certs/gts1c3.der"
+    ],
+    "commonName": "*.google.co.in",
+    "crlDistributionPoints": [
+        "http://crls.pki.goog/gts1c3/moVDfISia2k.crl"
+    ],
+    "issuer": {
+        "commonName": "GTS CA 1C3",
+        "countryName": "US",
+        "organizationName": "Google Trust Services LLC"
+    },
+    "notAfter": "Dec 11 08:26:28 2023 GMT",
+    "notBefore": "Sep 18 08:26:29 2023 GMT",
+    "serialNumber": "A4D7F59A28FF3CF2099F5283A987EF50",
+    "subjectAltName": [
+        [
+            "DNS",
+            "*.google.co.in"
+        ],
+        [
+            "DNS",
+            "google.co.in"
+        ],
+        [
+            "DNS",
+            "*.google.in"
+        ],
+        [
+            "DNS",
+            "google.in"
+        ]
+    ],
+    "version": 3
+}

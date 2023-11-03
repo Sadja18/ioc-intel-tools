@@ -1,0 +1,1297 @@
+{
+    "afcatcms.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.141"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "afcat.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "220.156.188.65",
+            "220.156.189.35"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "afcatpostexam.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.141"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "airmenselection.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "220.156.188.31"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "agniveernavy.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "220.156.188.179"
+        ],
+        "code": 200,
+        "server": "Abhi"
+    },
+    "afcatpreexam.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.141"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "afsangoshthee.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.140"
+        ],
+        "code": 200,
+        "server": "nginx/1.18.0 (Ubuntu)"
+    },
+    "agnipathvayu.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "220.156.189.188",
+            "220.156.189.189"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "aspresponse.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.165"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "about.cdac.in": {
+        "domain": "url-fwd.easydns.com",
+        "alias": [
+            "about.cdac.in"
+        ],
+        "ipaddr": [
+            "185.169.253.175"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "casbcms.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.141"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "casbpostexam.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.141"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "casbpreexam.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.141"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "cbic.sangoshthee.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.86"
+        ],
+        "code": 200,
+        "server": "nginx/1.18.0 (Ubuntu)"
+    },
+    "canteen.pune.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.208.38.13"
+        ],
+        "code": 200,
+        "server": "Apache/2.4.47 (Unix) OpenSSL/1.1.1k "
+    },
+    "acts.cdac.in": {
+        "domain": "url-fwd.easydns.com",
+        "alias": [
+            "acts.cdac.in"
+        ],
+        "ipaddr": [
+            "185.169.253.175"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "actsfeedback.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.74"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "cshiksha.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.154"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "actslms.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.175"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "apar.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.208.38.204"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "demoservice.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.159"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "careerindianairforce.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "220.156.189.203"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ds.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.208.100.21"
+        ],
+        "code": 200,
+        "server": "Apache/2.2.15 (CentOS)"
+    },
+    "cgept.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "220.156.189.98"
+        ],
+        "code": 200,
+        "server": "abhi"
+    },
+    "aadhaarmobileupdate.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "202.141.151.144"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "es-staging.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.253"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "es-staging3.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.198"
+        ],
+        "code": 200,
+        "server": "Apache/2.4.53 (Red Hat Enterprise Li"
+    },
+    "careers.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.85"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "esign.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.253"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "esigndashboard.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.36"
+        ],
+        "code": 404,
+        "server": "Apache-Coyote/1.1"
+    },
+    "imap.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.208.1.26"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "esignasp.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.193"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "examreg.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.141"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "aihackathon.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.173"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "icgrps.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "220.156.189.54"
+        ],
+        "code": 404,
+        "server": "rps_staging"
+    },
+    "hqsangoshthee.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.143"
+        ],
+        "code": 200,
+        "server": "nginx/1.18.0 (Ubuntu)"
+    },
+    "asa.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "202.141.151.63"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "icgpreexam.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.141"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "hpcshiksha.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "3.109.248.64"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "kolkata.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.240.0.11"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "fileshare.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.105"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "events.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.208.100.17"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "cakes.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.244.5.71"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "iss.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.12.45.122"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "joinindiancoastguard.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "220.156.189.139"
+        ],
+        "code": 200,
+        "server": "abhi"
+    },
+    "esignservicepune.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.36"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "esignservice1.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.36"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "conference.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.161"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "esignservice.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.36"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "iafrps.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "220.156.188.164"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "gist.cdac.in": {
+        "domain": "url-fwd.easydns.com",
+        "alias": [
+            "gist.cdac.in"
+        ],
+        "ipaddr": [
+            "185.169.253.175"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "gateway.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.36"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "intraweb.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.208.100.17"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "fms.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.208.38.87"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "intranet.hyderabad.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.244.0.5"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "hackathon.cdac.in": {
+        "domain": "pratipad.cdac.in",
+        "alias": [
+            "hackathon.cdac.in"
+        ],
+        "ipaddr": [
+            "196.1.113.96"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ls6.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.110"
+        ],
+        "code": 200,
+        "server": "Apache/2.4.29 (Ubuntu)"
+    },
+    "is.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.208.38.77"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ls5.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.181"
+        ],
+        "code": 200,
+        "server": "Apache/2.4.29 (Ubuntu)"
+    },
+    "econf.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.167"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "esignservice-beta.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "202.141.151.202"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "mcu.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.46"
+        ],
+        "code": 200,
+        "server": "nginx/1.18.0 (Ubuntu)"
+    },
+    "im.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.162"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "intranet.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.208.0.135"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ns.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.208.100.11"
+        ],
+        "code": 200,
+        "server": "Apache/2.2.15 (CentOS)"
+    },
+    "npsf-gw.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "14.139.109.10"
+        ],
+        "code": 200,
+        "server": "xxxxxxxx-xxxxx"
+    },
+    "navsangoshthee.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.44"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ntp.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.208.100.31"
+        ],
+        "code": 200,
+        "server": "Apache/2.2.15 (CentOS)"
+    },
+    "nsm.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.236"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "kasti.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.149"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ihpc.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.109.81"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "paramutkarsh.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "14.139.1.74"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "imap-dr.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "220.156.188.161"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "mmp.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "220.156.188.205"
+        ],
+        "code": 200,
+        "server": "Abhi"
+    },
+    "pop.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.208.1.26"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ls3.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.118"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "patna.cdac.in": {
+        "domain": "url-fwd-https.easydns.com",
+        "alias": [
+            "patna.cdac.in"
+        ],
+        "ipaddr": [
+            "64.68.200.48"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "npsf.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.77"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "pravesh.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.28"
+        ],
+        "code": 200,
+        "server": "xxxxxxxx-xxxxx"
+    },
+    "portal.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.208.100.15"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "pramani.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.223"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ihrms.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.180"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "pune.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.44"
+        ],
+        "code": 200,
+        "server": "nginx/1.14.2"
+    },
+    "psp-cms.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.208.159.190"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ls4.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.196"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ls7.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.199"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "recruitment.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.208.159.189"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ls2.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.103"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "mailsender4.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "220.156.188.162"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "mailsender3.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.217"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "mailsender.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.117"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "mailsender1.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.215"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "mailsender5.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "220.156.189.166"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "mailsender2.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.216"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "sammelan.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "210.212.237.176"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "sangoshthee.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.6"
+        ],
+        "code": 200,
+        "server": "nginx/1.18.0"
+    },
+    "sanchayan.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.64"
+        ],
+        "code": 200,
+        "server": "Apache/2.4.41 (Ubuntu)"
+    },
+    "rhea.pune.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.208.38.178"
+        ],
+        "code": 200,
+        "server": "Microsoft-IIS/6.0"
+    },
+    "mx1.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.35"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtp.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.208.1.26"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "mx4.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "220.156.189.55"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "nat.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.94"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "mx2.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.25"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "socket.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.46"
+        ],
+        "code": 200,
+        "server": "nginx/1.18.0 (Ubuntu)"
+    },
+    "pancloud1.blr.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.180.22.104"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "pratipad.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.96"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ns2.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.249"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ns4.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.249"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ns1.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.248"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ns3.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.248"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "nsmvideos.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.71"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ntp1.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.146"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "tenders.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.208.159.95"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "pinger.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.251"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "webcast.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.3"
+        ],
+        "code": 200,
+        "server": "Apache/2.4.29 (Ubuntu)"
+    },
+    "pop-dr.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "220.156.188.161"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "pravesh1.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "14.139.109.5"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vcs.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.208.38.75"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "usp.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.208.100.17"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "videos.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.208.38.16"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "www.airmenselection.cdac.in": {
+        "domain": "airmenselection.cdac.in",
+        "alias": [
+            "www.airmenselection.cdac.in"
+        ],
+        "ipaddr": [
+            "220.156.188.31"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "www.afcat.cdac.in": {
+        "domain": "afcat.cdac.in",
+        "alias": [
+            "www.afcat.cdac.in"
+        ],
+        "ipaddr": [
+            "220.156.189.35",
+            "220.156.188.65"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "webmail.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.206"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "webmail1.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.214"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "www.cdac.in": {
+        "domain": "cdac.in",
+        "alias": [
+            "www.cdac.in"
+        ],
+        "ipaddr": [
+            "196.1.113.45"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "www.careerindianairforce.cdac.in": {
+        "domain": "careerindianairforce.cdac.in",
+        "alias": [
+            "www.careerindianairforce.cdac.in"
+        ],
+        "ipaddr": [
+            "220.156.189.203"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "www.webmail.cdac.in": {
+        "domain": "webmail.cdac.in",
+        "alias": [
+            "www.webmail.cdac.in"
+        ],
+        "ipaddr": [
+            "196.1.113.206"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "www.pramani.cdac.in": {
+        "domain": "pramani.cdac.in",
+        "alias": [
+            "www.pramani.cdac.in"
+        ],
+        "ipaddr": [
+            "196.1.113.223"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "webmail2.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.203"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "turnserver.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.115"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "samhar-covid19hackathon.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.187"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtp-dr.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "220.156.188.161"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "speedtest.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.188"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "trcovapp.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.172"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "stream.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.208.38.31"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "tracecovid19.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.170"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vdo.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.208.24.11"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "trainproject.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.182"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ws.cdac.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "196.1.113.161"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "www.ihrms.cdac.in": {
+        "domain": "ihrms.cdac.in",
+        "alias": [
+            "www.ihrms.cdac.in"
+        ],
+        "ipaddr": [
+            "196.1.113.180"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "_meta": {
+        "name": "knockpy",
+        "version": "6.1.0",
+        "time_start": 1697543987.0891407,
+        "time_end": 1697544018.5089178,
+        "domain": "cdac.in",
+        "wordlist": 11010
+    }
+}
