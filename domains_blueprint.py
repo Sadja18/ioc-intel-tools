@@ -77,7 +77,7 @@ def ssl_info_view():
         response.status_code = 200
         # response.headers["Access-Control-Allow-Origin"] = "*"
         return response
-         
+
 
 
 @domain_blueprint.route("/subdomain", methods=["POST"])
